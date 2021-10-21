@@ -1,0 +1,10 @@
+C:\Users\lima1\Desktop\ExercícioCheque\ExercícioCheque\bin\Debug\ExercícioCheque.exe.config
+C:\Users\lima1\Desktop\ExercícioCheque\ExercícioCheque\bin\Debug\ExercícioCheque.exe
+C:\Users\lima1\Desktop\ExercícioCheque\ExercícioCheque\bin\Debug\ExercícioCheque.pdb
+C:\Users\lima1\Desktop\ExercícioCheque\ExercícioCheque\obj\Debug\ExercícioCheque.Form1.resources
+C:\Users\lima1\Desktop\ExercícioCheque\ExercícioCheque\obj\Debug\ExercícioCheque.Properties.Resources.resources
+C:\Users\lima1\Desktop\ExercícioCheque\ExercícioCheque\obj\Debug\ExercícioCheque.csproj.GenerateResource.cache
+C:\Users\lima1\Desktop\ExercícioCheque\ExercícioCheque\obj\Debug\ExercícioCheque.csproj.CoreCompileInputs.cache
+C:\Users\lima1\Desktop\ExercícioCheque\ExercícioCheque\obj\Debug\ExercícioCheque.exe
+C:\Users\lima1\Desktop\ExercícioCheque\ExercícioCheque\obj\Debug\ExercícioCheque.pdb
+C:\Users\lima1\Desktop\ExercícioCheque\ExercícioCheque\obj\Debug\ExercícioCheque.csprojAssemblyReference.cache
