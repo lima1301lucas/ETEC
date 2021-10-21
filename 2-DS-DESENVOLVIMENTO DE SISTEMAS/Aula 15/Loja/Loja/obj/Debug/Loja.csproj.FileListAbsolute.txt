@@ -1,0 +1,45 @@
+c:\users\admin\documents\visual studio 2013\Projects\Loja\Loja\bin\Debug\Loja.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Loja\Loja\bin\Debug\Loja.exe
+c:\users\admin\documents\visual studio 2013\Projects\Loja\Loja\bin\Debug\Loja.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Loja\Loja\obj\Debug\Loja.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Loja\Loja\obj\Debug\Loja.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Loja\Loja\obj\Debug\Loja.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Loja\Loja\obj\Debug\Loja.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Loja\Loja\obj\Debug\Loja.exe
+c:\users\admin\documents\visual studio 2013\Projects\Loja\Loja\obj\Debug\Loja.pdb
+G:\Desenvolvimento de Sistemas\2º Módulo\DS\Loja\Loja\bin\Debug\Loja.exe.config
+G:\Desenvolvimento de Sistemas\2º Módulo\DS\Loja\Loja\obj\Debug\Loja.exe
+G:\Desenvolvimento de Sistemas\2º Módulo\DS\Loja\Loja\obj\Debug\Loja.pdb
+G:\Desenvolvimento de Sistemas\2º Módulo\DS\Loja\Loja\bin\Debug\Loja.exe
+G:\Desenvolvimento de Sistemas\2º Módulo\DS\Loja\Loja\bin\Debug\Loja.pdb
+G:\Desenvolvimento de Sistemas\2º Módulo\DS\Loja\Loja\obj\Debug\Loja.csprojResolveAssemblyReference.cache
+G:\Desenvolvimento de Sistemas\2º Módulo\DS\Loja\Loja\obj\Debug\Loja.Form1.resources
+G:\Desenvolvimento de Sistemas\2º Módulo\DS\Loja\Loja\obj\Debug\Loja.Properties.Resources.resources
+G:\Desenvolvimento de Sistemas\2º Módulo\DS\Loja\Loja\obj\Debug\Loja.csproj.GenerateResource.Cache
+H:\Desenvolvimento de Sistemas\2º Módulo\DS\Loja\Loja\bin\Debug\Loja.exe.config
+H:\Desenvolvimento de Sistemas\2º Módulo\DS\Loja\Loja\obj\Debug\Loja.exe
+H:\Desenvolvimento de Sistemas\2º Módulo\DS\Loja\Loja\obj\Debug\Loja.pdb
+H:\Desenvolvimento de Sistemas\2º Módulo\DS\Loja\Loja\bin\Debug\Loja.exe
+H:\Desenvolvimento de Sistemas\2º Módulo\DS\Loja\Loja\bin\Debug\Loja.pdb
+H:\Desenvolvimento de Sistemas\2º Módulo\DS\Loja\Loja\obj\Debug\Loja.csprojResolveAssemblyReference.cache
+H:\Desenvolvimento de Sistemas\2º Módulo\DS\Loja\Loja\obj\Debug\Loja.Form1.resources
+H:\Desenvolvimento de Sistemas\2º Módulo\DS\Loja\Loja\obj\Debug\Loja.Properties.Resources.resources
+H:\Desenvolvimento de Sistemas\2º Módulo\DS\Loja\Loja\obj\Debug\Loja.csproj.GenerateResource.Cache
+G:\Loja\Loja\bin\Debug\Loja.exe.config
+G:\Loja\Loja\obj\Debug\Loja.exe
+G:\Loja\Loja\obj\Debug\Loja.pdb
+G:\Loja\Loja\bin\Debug\Loja.exe
+G:\Loja\Loja\bin\Debug\Loja.pdb
+G:\Loja\Loja\obj\Debug\Loja.csprojResolveAssemblyReference.cache
+G:\Loja\Loja\obj\Debug\Loja.Form1.resources
+G:\Loja\Loja\obj\Debug\Loja.Properties.Resources.resources
+G:\Loja\Loja\obj\Debug\Loja.csproj.GenerateResource.Cache
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\15º aula\Loja\Loja\bin\Debug\Loja.exe.config
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\15º aula\Loja\Loja\obj\Debug\Loja.exe
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\15º aula\Loja\Loja\obj\Debug\Loja.pdb
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\15º aula\Loja\Loja\bin\Debug\Loja.exe
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\15º aula\Loja\Loja\bin\Debug\Loja.pdb
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\15º aula\Loja\Loja\obj\Debug\Loja.csprojResolveAssemblyReference.cache
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\15º aula\Loja\Loja\obj\Debug\Loja.Form1.resources
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\15º aula\Loja\Loja\obj\Debug\Loja.Properties.Resources.resources
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\15º aula\Loja\Loja\obj\Debug\Loja.csproj.GenerateResource.Cache
