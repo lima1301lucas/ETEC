@@ -1,0 +1,22 @@
+G:\2° Módulo\DS\cadastro\cadastro\cadastro\bin\Debug\cadastro.exe.config
+G:\2° Módulo\DS\cadastro\cadastro\cadastro\obj\Debug\cadastro.csprojResolveAssemblyReference.cache
+G:\2° Módulo\DS\cadastro\cadastro\cadastro\obj\Debug\cadastro.Form1.resources
+G:\2° Módulo\DS\cadastro\cadastro\cadastro\obj\Debug\cadastro.Properties.Resources.resources
+G:\2° Módulo\DS\cadastro\cadastro\cadastro\obj\Debug\cadastro.csproj.GenerateResource.Cache
+G:\2° Módulo\DS\cadastro\cadastro\cadastro\bin\Debug\cadastro.exe
+G:\2° Módulo\DS\cadastro\cadastro\cadastro\bin\Debug\cadastro.pdb
+G:\2° Módulo\DS\cadastro\cadastro\cadastro\obj\Debug\cadastro.exe
+G:\2° Módulo\DS\cadastro\cadastro\cadastro\obj\Debug\cadastro.pdb
+G:\2° Módulo\DS\cadastro\cadastro\cadastro\obj\Debug\cadastro.Form2.resources
+H:\2° Módulo\DS\cadastro\cadastro\cadastro\bin\Debug\cadastro.exe.config
+H:\2° Módulo\DS\cadastro\cadastro\cadastro\obj\Debug\cadastro.exe
+H:\2° Módulo\DS\cadastro\cadastro\cadastro\obj\Debug\cadastro.pdb
+H:\2° Módulo\DS\cadastro\cadastro\cadastro\bin\Debug\cadastro.exe
+H:\2° Módulo\DS\cadastro\cadastro\cadastro\bin\Debug\cadastro.pdb
+H:\2° Módulo\DS\cadastro\cadastro\cadastro\obj\Debug\cadastro.csprojResolveAssemblyReference.cache
+H:\2° Módulo\DS\cadastro\cadastro\cadastro\obj\Debug\cadastro.Form1.resources
+H:\2° Módulo\DS\cadastro\cadastro\cadastro\obj\Debug\cadastro.Form2.resources
+H:\2° Módulo\DS\cadastro\cadastro\cadastro\obj\Debug\cadastro.Properties.Resources.resources
+H:\2° Módulo\DS\cadastro\cadastro\cadastro\obj\Debug\cadastro.csproj.GenerateResource.Cache
+D:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\cadastro\cadastro\cadastro\obj\Debug\cadastro.exe
+D:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\cadastro\cadastro\cadastro\obj\Debug\cadastro.pdb
