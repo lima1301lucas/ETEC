@@ -1,0 +1,28 @@
+C:\Users\Admin\Desktop\Exercicio\Exercicio\bin\Debug\Exercicio.exe.config
+C:\Users\Admin\Desktop\Exercicio\Exercicio\obj\Debug\Exercicio.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Exercicio\Exercicio\obj\Debug\Exercicio.Exercicio.resources
+C:\Users\Admin\Desktop\Exercicio\Exercicio\obj\Debug\Exercicio.Properties.Resources.resources
+C:\Users\Admin\Desktop\Exercicio\Exercicio\obj\Debug\Exercicio.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Exercicio\Exercicio\bin\Debug\Exercicio.exe
+C:\Users\Admin\Desktop\Exercicio\Exercicio\bin\Debug\Exercicio.pdb
+C:\Users\Admin\Desktop\Exercicio\Exercicio\obj\Debug\Exercicio.exe
+C:\Users\Admin\Desktop\Exercicio\Exercicio\obj\Debug\Exercicio.pdb
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\5ª aula\Exercicio\Exercicio\bin\Debug\Exercicio.exe.config
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\5ª aula\Exercicio\Exercicio\obj\Debug\Exercicio.exe
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\5ª aula\Exercicio\Exercicio\obj\Debug\Exercicio.pdb
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\5ª aula\Exercicio\Exercicio\bin\Debug\Exercicio.exe
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\5ª aula\Exercicio\Exercicio\bin\Debug\Exercicio.pdb
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\5ª aula\Exercicio\Exercicio\obj\Debug\Exercicio.csprojResolveAssemblyReference.cache
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\5ª aula\Exercicio\Exercicio\obj\Debug\Exercicio.Exercicio.resources
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\5ª aula\Exercicio\Exercicio\obj\Debug\Exercicio.Properties.Resources.resources
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\5ª aula\Exercicio\Exercicio\obj\Debug\Exercicio.csproj.GenerateResource.Cache
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\5ª aula\Exercicio\Exercicio\bin\Debug\Exercicio.exe.config
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\5ª aula\Exercicio\Exercicio\bin\Debug\Exercicio.exe
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\5ª aula\Exercicio\Exercicio\bin\Debug\Exercicio.pdb
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\5ª aula\Exercicio\Exercicio\obj\Debug\Exercicio.csprojAssemblyReference.cache
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\5ª aula\Exercicio\Exercicio\obj\Debug\Exercicio.Exercicio.resources
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\5ª aula\Exercicio\Exercicio\obj\Debug\Exercicio.Properties.Resources.resources
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\5ª aula\Exercicio\Exercicio\obj\Debug\Exercicio.csproj.GenerateResource.cache
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\5ª aula\Exercicio\Exercicio\obj\Debug\Exercicio.csproj.CoreCompileInputs.cache
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\5ª aula\Exercicio\Exercicio\obj\Debug\Exercicio.exe
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\5ª aula\Exercicio\Exercicio\obj\Debug\Exercicio.pdb
