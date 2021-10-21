@@ -1,0 +1,24 @@
+
+.banner {
+		width: 960px;
+		height: 700px;
+		margin: 0 auto;
+		animation: slide 5s infinite;
+		animation-direction: alternate;
+       }
+
+@keyframes slide {
+		    	0% , 30% {
+		    	background-image: url(../imagens/reileao1.jpeg)
+            }
+			
+			
+          35% , 65% {
+          background-image: url(../imagens/reileao2.jpg)
+           }
+		   
+		   
+          70% , 100% {
+          background-image: url(../imagens/reileao3.jpg)
+         }
+}
