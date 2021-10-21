@@ -1,0 +1,9 @@
+.menu{ width: 100%;
+    background-color:rgb(119, 235, 243);
+    float: left;
+    padding: 18px 8%;
+}
+.menu li{float:left;}
+.menu li a{color:rgb(88, 171, 219);
+margin-right: 25px;}
+.menu li a:hover{color:rgb(0, 4, 255);}
