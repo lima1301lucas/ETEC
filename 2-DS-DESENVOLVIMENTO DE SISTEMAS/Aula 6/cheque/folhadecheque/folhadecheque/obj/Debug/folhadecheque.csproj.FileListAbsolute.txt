@@ -1,0 +1,50 @@
+C:\Users\Admin\Desktop\cheque\folhadecheque\folhadecheque\bin\Debug\folhadecheque.exe.config
+C:\Users\Admin\Desktop\cheque\folhadecheque\folhadecheque\bin\Debug\folhadecheque.exe
+C:\Users\Admin\Desktop\cheque\folhadecheque\folhadecheque\bin\Debug\folhadecheque.pdb
+C:\Users\Admin\Desktop\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.Form1.resources
+C:\Users\Admin\Desktop\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.Properties.Resources.resources
+C:\Users\Admin\Desktop\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.exe
+C:\Users\Admin\Desktop\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.pdb
+C:\Users\Admin\Desktop\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.csprojResolveAssemblyReference.cache
+E:\cheque\folhadecheque\folhadecheque\bin\Debug\folhadecheque.exe.config
+E:\cheque\folhadecheque\folhadecheque\bin\Debug\folhadecheque.exe
+E:\cheque\folhadecheque\folhadecheque\bin\Debug\folhadecheque.pdb
+E:\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.csprojAssemblyReference.cache
+E:\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.Form1.resources
+E:\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.Properties.Resources.resources
+E:\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.csproj.GenerateResource.cache
+E:\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.csproj.CoreCompileInputs.cache
+E:\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.exe
+E:\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.pdb
+G:\cheque\folhadecheque\folhadecheque\bin\Debug\folhadecheque.exe.config
+G:\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.exe
+G:\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.pdb
+G:\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.csprojResolveAssemblyReference.cache
+G:\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.Form1.resources
+G:\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.Properties.Resources.resources
+G:\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.csproj.GenerateResource.Cache
+G:\cheque\folhadecheque\folhadecheque\bin\Debug\folhadecheque.exe
+G:\cheque\folhadecheque\folhadecheque\bin\Debug\folhadecheque.pdb
+H:\cheque\folhadecheque\folhadecheque\bin\Debug\folhadecheque.exe.config
+H:\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.exe
+H:\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.pdb
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\6ª aula\cheque\folhadecheque\folhadecheque\bin\Debug\folhadecheque.exe.config
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\6ª aula\cheque\folhadecheque\folhadecheque\bin\Debug\folhadecheque.exe
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\6ª aula\cheque\folhadecheque\folhadecheque\bin\Debug\folhadecheque.pdb
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\6ª aula\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.csprojAssemblyReference.cache
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\6ª aula\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.Form1.resources
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\6ª aula\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.Properties.Resources.resources
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\6ª aula\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.csproj.GenerateResource.cache
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\6ª aula\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.csproj.CoreCompileInputs.cache
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\6ª aula\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.exe
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\6ª aula\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.pdb
+H:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\6ª aula\cheque\folhadecheque\folhadecheque\bin\Debug\folhadecheque.exe.config
+H:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\6ª aula\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.exe
+H:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\6ª aula\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.pdb
+H:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\6ª aula\cheque\folhadecheque\folhadecheque\bin\Debug\folhadecheque.exe
+H:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\6ª aula\cheque\folhadecheque\folhadecheque\bin\Debug\folhadecheque.pdb
+H:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\6ª aula\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.csprojResolveAssemblyReference.cache
+H:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\6ª aula\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.Form1.resources
+H:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\6ª aula\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.Properties.Resources.resources
+H:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\6ª aula\cheque\folhadecheque\folhadecheque\obj\Debug\folhadecheque.csproj.GenerateResource.Cache
