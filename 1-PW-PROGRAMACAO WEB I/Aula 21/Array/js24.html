@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <TITLE>JS24 – Alterando Campos</TITLE>
+<SCRIPT LANGUAGE="JAVASCRIPT">
+function processa1()
+{
+d= eval(document.calculo.campo1.value) + eval(document.calculo.campo2.value) + eval(document.calculo.campo3.value)
+document.calculo.campo4.value=d
+}
+function processa2()
+{
+d= eval(document.calculo.campo1.value) * eval(document.calculo.campo2.value) * eval(document.calculo.campo3.value)
+document.calculo.campo4.value=d
+}
+
+</SCRIPT>
+</head>
+<BODY BGCOLOR="darkred" TEXT="lightBLUE">
+    <CENTER>
+    <FONT FACE="ARIAL" SIZE="5"><B>Exercício 24 - Alterando Campos</FONT><P>
+    <FONT FACE="ARIAL" SIZE="3" COLOR=”white”>Aluno01 – Aluno02</FONT></B></P>
+    <FORM NAME="calculo">
+    Campo1....:<input type="text" name="campo1" value="" size=10 maxlength=10><br>
+    Campo2....:<input type="text" name="campo2" value="" size=10 maxlength=10><br>
+    Campo3....:<input type="text" name="campo3" value="" size=10 maxlength=10><br>
+    <HR>
+    <CENTER>
+    <input type="button" value="Soma" onClick="processa1()">
+    <input type="button" value="Multiplica" onClick="processa2()">
+    <HR>
+    Resultado....:<input type="text" name="campo4" value="" size=10 maxlength=10>
+    </CENTER>
+    </FORM>
+    </BODY>
+</html>

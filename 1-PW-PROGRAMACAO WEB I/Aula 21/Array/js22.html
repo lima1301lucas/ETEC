@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <TITLE>JS22 – Validação de Campos</TITLE>
+<SCRIPT LANGUAGE="JAVASCRIPT">
+
+function campovital(x)
+{
+if (x.value=="")
+{
+if (confirm("O campo "+ x.name +" não pode ser deixado em branco. Quer retornar para digitar?"))
+{
+x.focus()
+}
+}
+}
+
+</SCRIPT>
+</head>
+<BODY BGCOLOR="lightyellow" TEXT="DARKGREEN">
+    <CENTER>
+    <FONT FACE="ARIAL" SIZE="5"><B>Exercício 22 - Validação de Campos</FONT><P>
+    <FONT FACE="ARIAL" SIZE="3" COLOR=”DARKBLUE”>Aluno01 – Aluno02</FONT></B>
+    </CENTER>
+    <HR>
+    <PRE>
+    <FORM>
+    Digite seus Dados (Os campos com * são obrigatórios):<p>
+    <br>Código*...:<input type="text" name="código" value="" size="5" maxlength="5" onBlur="campovital(this)">
+    <br>Nome*.....:<input type="text" name="nome" value="" size="30" maxlength="30" onBlur="campovital(this)">
+    <br>Cargo.....:<input type="text" name="cargo" value="" size="20" maxlength="20">
+    <br>Telefone*.:<input type="text" name="telefone" value="" size="15" maxlength="15" onBlur="campovital(this)">
+    <br>Ramal.....:<input type="text" name="ramal" value="" size="4" maxlength="4">
+    </FORM>
+    </PRE>
+    </BODY>
+</html>

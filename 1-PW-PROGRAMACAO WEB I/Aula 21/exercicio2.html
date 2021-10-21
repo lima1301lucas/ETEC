@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <br>
+    <video id="play" width="400" controls="controls">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/M_5twa6PH9K"
+        frameborder="0" allowfullscreen></iframe>
+        <source src="mov_bbb.flv" type="video/flv"></video>
+
+    <script>
+        var meuVideo=document.getElementById("play");
+        function grande ()
+        {
+            meuVideo.width=650;
+        }
+
+        function normal ()
+        {
+            meuVideo.width=450;
+        }
+    </script>
+
+    <div style="text-align:left">
+        <button onclick="grande () ">Grande</button>
+        <button onclick="pequena () ">Pequena</button>
+        <button onclick="normal () ">Normal</button>
+    </div>
+</body>
+</html>

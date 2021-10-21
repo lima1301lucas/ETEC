@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<BODY BGCOLOR="gray" TEXT="yellow"><center>
+        <CENTER>
+        <FONT FACE="ARIAL" SIZE="5"><B>Exercício 23 - Objetos Math</FONT><P>
+        <FONT FACE="ARIAL" SIZE="3" COLOR="white">Aluno01 – Aluno02</FONT></B>
+        </CENTER>
+        <HR>
+        <FORM NAME=”calculos”>
+        <TABLE WIDTH="100%" BORDER="0" BGCOLOR="silver">
+        <TR>
+        <TD ALIGN="right">Digite um número real qualquer:</TD>
+        <TD><input type="text" name="tx1" value=""></TD></TR>
+        <TR>
+        <TD ALIGN="right">Resultado:
+        <TD><input type="text" name="tx2" value=""></TD></TR>
+        <TR>
+        <TD ALIGN="right">
+        <input type="button" name="bt1" value="Dividir Nº por 3" onClick="tx2.value=(tx1.value)/3">
+        <TD>
+        <input type="button" name="bt2" value="Dividir Nº por 3 e arredondar" onClick="tx2.value=Math.round(tx1.value/3)">
+        </TD></TR>
+        <TR>
+        <TD ALIGN="right">
+        <input type="button" name="bt3" value="O menor inteiro maior que o Nº" onClick="tx2.value=Math.ceil(tx1.value)">
+        <TD>
+        <input type="button" name="bt4" value="O maior inteiro menor que o Nº" onClick="tx2.value=Math.floor(tx1.value)">
+        </TD></TR>
+        <TR>
+        <TD ALIGN="right">
+        <input type="button" name="bt5" value="Raiz Quadrada" onClick="tx2.value=Math.sqrt(tx1.value)">
+        <TD>
+        <input type="button" name="bt6" value="Logarítmo Neperiano" onClick="tx2.value=Math.log(tx1.value)">
+        </TD></TR>
+        </TABLE>
+        </FORM>
+        </CENTER>
+        </BODY>
+</html>

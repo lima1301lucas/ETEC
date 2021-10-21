@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Lâmpada</title>
+    <script>
+    function trocarImagem() {
+    var Image = document.getElementById('myImage');
+    if (Image.src.match("neymar.jpg")) 
+    {
+        Image.src = "./img/caiu.jpg";
+    } 
+    else 
+    {
+        Image.src = "./img/neymar.jpg";
+    }
+    }
+
+    </script>
+</head>
+<body>
+    <h1>JavaScript também muda imagens</h1>
+    <img id = "myImage" onclick="trocarImagem()"
+    src="./img/neymar.jpg" width="300" height="208">
+    <p>Clique no Neymar.</p>
+
+
+</body>
+</html>
