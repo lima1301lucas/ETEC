@@ -1,0 +1,26 @@
+C:\Users\Admin\Desktop\login\login\bin\Debug\login.exe.config
+C:\Users\Admin\Desktop\login\login\bin\Debug\login.exe
+C:\Users\Admin\Desktop\login\login\bin\Debug\login.pdb
+C:\Users\Admin\Desktop\login\login\obj\Debug\login.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\login\login\obj\Debug\login.frmLogin.resources
+C:\Users\Admin\Desktop\login\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\Admin\Desktop\login\login\obj\Debug\login.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\login\login\obj\Debug\login.exe
+C:\Users\Admin\Desktop\login\login\obj\Debug\login.pdb
+C:\Users\Admin\Desktop\login\login\obj\Debug\login.frmPrincipal.resources
+C:\Users\Admin\Desktop\login\login\obj\Debug\login.frmCadastro.resources
+C:\Users\Admin\Desktop\login\login\obj\Debug\login.frmAlteracaoSenha.resources
+C:\Users\Admin\Desktop\login\login\obj\Debug\login.frmBloqueiaUsuario.resources
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\14º aula\login\bin\Debug\login.exe.config
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\14º aula\login\obj\Debug\login.exe
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\14º aula\login\obj\Debug\login.pdb
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\14º aula\login\bin\Debug\login.exe
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\14º aula\login\bin\Debug\login.pdb
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\14º aula\login\obj\Debug\login.csprojResolveAssemblyReference.cache
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\14º aula\login\obj\Debug\login.frmAlteracaoSenha.resources
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\14º aula\login\obj\Debug\login.frmBloqueiaUsuario.resources
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\14º aula\login\obj\Debug\login.frmCadastro.resources
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\14º aula\login\obj\Debug\login.frmLogin.resources
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\14º aula\login\obj\Debug\login.frmPrincipal.resources
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\14º aula\login\obj\Debug\login.Properties.Resources.resources
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\14º aula\login\obj\Debug\login.csproj.GenerateResource.Cache
