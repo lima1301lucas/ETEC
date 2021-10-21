@@ -1,0 +1,40 @@
+.menu{ width: 100%;
+    background-color: #242424;
+    float: left;
+    padding: 18px 8%;
+   
+
+}
+.menu li{float: left;
+}
+.menu li a{color:#ffffff;
+margin-right: 25px;
+text-decoration:  none;
+    
+}
+.menu li a:hover {color: #e70000;
+
+}
+
+
+.principal{width: 100%; float:left; padding:20px 8px;}
+.sobre {width:70%; float:left; padding:0 20px 20px 0;}
+.sobre h2 {margin-bottom:15px;}
+.sobre img {width: 50%; float:left; border-radius: 5px; margin:0 15px 15px 0;}
+.sobre p{text-align: justify;}
+
+.onde-estamos {width:30%; float:right; padding:10px 20px; 
+    background-color:#a10101; border-radius:5px;}
+.onde-estamos h2{ margin-bottom:5px;}
+.onde-estamos iframe {width:100%; height:300px; margin:20px 0;}
+.onde-estamos li{color:rgb(35, 233, 45); margin-bottom:10px;}
+.one-estamos i{ margin-right:10px;}
+
+.social-icons {float:right;}
+.social-icons a{color:#fff; float:left; margin-left:12px;}
+.btn-facebook:hover{color:rgb(34, 24, 175);}
+.btn-twitter:hover{color:rgb(0, 140, 255);}
+.btn-google:hover{color:rgb(255, 15, 15);}
+
+.Rodape { width :100%; float:left; background-color:#242424; padding:20px 8%;}
+.Rodape { color:rgb(255, 255, 255); }
