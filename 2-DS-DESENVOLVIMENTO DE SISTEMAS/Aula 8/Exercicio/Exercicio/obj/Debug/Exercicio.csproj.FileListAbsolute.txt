@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Exercicio\Exercicio\bin\Debug\Exercicio.exe.config
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\8ª aula\Exercicio\Exercicio\bin\Debug\Exercicio.exe.config
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\8ª aula\Exercicio\Exercicio\bin\Debug\Exercicio.exe
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\8ª aula\Exercicio\Exercicio\bin\Debug\Exercicio.pdb
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\8ª aula\Exercicio\Exercicio\obj\Debug\Exercicio.csprojResolveAssemblyReference.cache
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\8ª aula\Exercicio\Exercicio\obj\Debug\Exercicio.Form1.resources
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\8ª aula\Exercicio\Exercicio\obj\Debug\Exercicio.Properties.Resources.resources
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\8ª aula\Exercicio\Exercicio\obj\Debug\Exercicio.csproj.GenerateResource.Cache
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\8ª aula\Exercicio\Exercicio\obj\Debug\Exercicio.exe
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\8ª aula\Exercicio\Exercicio\obj\Debug\Exercicio.pdb
