@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:300,400,500,700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Muli'; 
+    font-size: 16px;
+}
+
+body{
+    background-color: #3A9DFF;
+}
+
+table{
+    width: 900px;
+    border: 1px solid #9f9f9f;
+    table-layout: fixed;
+    background-color: white;
+}
+
+tr{
+    border-bottom: 3px double #6c6c6c;
+}
+
+th{
+    background: #000000;
+    color: #ffffff;
+}
+
+img{
+    background: red;
+}
+
+.table-avaliacao{
+    margin-left: 350px;
+    margin-top: 50px;
+}

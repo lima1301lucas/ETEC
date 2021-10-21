@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Gothic A1', sans-serif;
+}
+
+main {
+    width: 800px;
+    height: 300px;
+    border: 1px solid black;
+    display: flex;
+    position: absolute;
+    left: 50%;
+    margin: -150px -400px;
+    top: 50%;
+}
+
+aside {
+    background: #484848;
+    padding: 50px;
+}
+
+aside p{
+    color: lightgray;
+    text-align: justify;
+}
+
+aside>button {
+    background: linear-gradient(rgb(0, 134, 175), rgb(1, 170, 148));
+    border: none;
+    height: 50px;
+    width: 150px;
+    padding: 15px;
+    color: white;
+    font-size: 18px;
+    margin-top: 40px;
+}
+
+.section-login {
+    text-align: center;
+    width: 30%;
+    background-color: #3E3E3E;
+}
+
+label {
+    margin: 10px 5px 20px 5px;
+    display: block;
+}
+
+.esp{
+    margin-top: 50px;
+}
+
+span {
+    display: block;
+    font-family: sans-serif;
+    margin-right: 10px;
+    color: white;
+}
+
+.btnEnviar{
+    background: linear-gradient(#F21AE4, #8523E6);
+    width: 175px;
+    padding: 15px;
+    color: white;
+    border: none;
+    font-weight: normal;
+    font-size: 18px;
+}
+
+.inp-geral{
+    background-color: #515151;
+    border: none;
+    color: white;
+    font-size: 14px;
+    padding-left: 10px;
+}
+
+section label > input {
+    height: 30px;
+}
+
+/*--------------------------------------------------------------------------------------------------------------*/
+
+@media screen and (min-width: 501px) {
+    aside {
+        width: 70%;
+    }
+
+    main {
+        margin: -150px -400px;
+        top: 50%;
+    }
+}
+
+/*--------------------------------------------------------------------------------------------------------------*/
+
+@media screen and (max-width: 500px) {
+
+    main {
+        width: 300px;
+        height: 450px;
+        flex-direction: column-reverse;
+        margin: -225px -150px;
+
+    }
+
+    aside {
+        padding: 10px;
+        text-align: center;
+    }
+
+    aside>button {
+        margin: 10px;
+    }
+
+    aside>img,
+    aside>p {
+        display: none;
+    }
+
+    section {
+        padding: 30px 0px;
+        width: 100%;
+    }
+}

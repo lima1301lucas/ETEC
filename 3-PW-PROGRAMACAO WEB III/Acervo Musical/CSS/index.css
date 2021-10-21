@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Gothic A1', sans-serif;
+    color: #000;
+    font-size: 16px;
+    outline: none;
+}
+
+body{
+    background-color: #3E3E3E;
+}
+
+.conteudo {
+    width: calc(100% - 300px);
+    z-index: 155;
+    width: 1000px;
+    height: 600px;
+    margin-left: 350px;
+}
+
+.open-modal{
+    margin-top: 20px;
+    margin-left: 80%;
+    padding: 5px;
+    color: white;
+    background-color: #198CFF;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+}
+
+html, body{
+    width: 100%;
+    height: 100%;
+}
+
+.bg-modal{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    position: absolute;
+    z-index: 2;
+    top: -100%;
+    display: block;
+    transition: 800ms;
+}
+
+h2{
+    font-size: 30px;
+    color: white
+}
+
+.desq{
+    color: #1ba8c2;
+}
+
+h4{
+    padding-top: 10px;
+    color: white;
+    font-weight: 500;
+}
+
+.modal{
+    width: 60%;
+    height: 50%;
+    margin: 80px auto;
+}
+
+.modal img{
+    float: right;
+    width: 30px;
+    height: 30px;
+    margin-top: -60px;
+    transition: 350ms;
+    cursor: pointer;
+}
+
+.modal img:hover{
+    opacity: .5;
+    transition: 350ms;
+}
+
+.item{
+    margin: 20px;
+}
+
+.icon-item{
+    width: 200px;
+    height: 200px;
+}
+
+.principal{
+    display: flex;
+}
+
+.titulo{
+    font-size: 18px;
+    color: white;
+}
+
+.secundaria{
+    display: flex;
+}

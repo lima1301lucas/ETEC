@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:300,400,500,700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Muli'; 
+    font-size: 16px;
+}
+
+body{
+    background-color: #3A9DFF;
+}
+
+.geral{
+    margin-top: 80px;
+}
+
+.container{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.icone{
+    width: 35px;
+    height: 35px;
+    margin-left: 670px;
+    margin-top: 30px;
+}
+
+.subtitulo{
+    width: 500px;
+    margin-left: 660px;
+    font-size: 24px;
+    font-weight: 200;
+    color: #fff;
+}
+
+.box-login{
+    width: 270px;
+    height: 255px;
+    margin-left: 560px;
+    margin-top: 20px;
+    background-color: #fcfcfc;
+    border-radius: 5px;
+    position: absolute;
+    border: 1px solid rgb(1, 1, 175, 0.6);
+}
+
+.form{
+    margin-top: 20px;
+    display: flex;
+}
+
+.rm{
+    display: flex;
+}
+
+.rg{
+    display: flex;
+}
+
+label{
+    width: 260px;
+    height: 30px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.lbl-rg{
+    margin-top: 50px;
+}
+
+input{
+    display: flex;
+    margin-left: 20px;
+    width: 210px;
+    height: 30px;
+    border-radius: 3px;
+    margin-top: 10px;
+    box-shadow: 0 0 0 0;
+    border: 0.5px solid lightgray;
+    outline: 0;
+}
+
+
+button{
+    margin-top: 60px;
+    width: 210px;
+    margin-left: 20px;
+    height: 40px;
+    background-color: transparent;
+    border-radius: 5px;
+    box-shadow: 0 0 0 0;
+    border: 1px solid rgb(1, 1, 175, 0.8);
+    outline: 0;
+    color:blue;
+    font-size: 20px;
+}
+
+button:hover{
+    background-color: #4c8df5;
+    color:white;
+}

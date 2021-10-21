@@ -1,0 +1,114 @@
+
+body{
+    background-color: #3E3E3E;
+}
+
+.sec-album{
+    margin-left: 360px;
+    width: 1000px;
+    height: 600px;
+}
+
+.titulo > h2{
+    padding-top: 90px;
+    font-size: 30px;
+    text-align: center;
+}
+
+label{
+    color: lightgray;
+    font-size: 18px;
+}
+
+input{
+    color: black;
+}
+
+select{
+    width: 380px;
+    height: 30px;
+    background-color: #636363;
+    outline: none;
+    color: black;
+    margin-left: 5px;
+    margin-top: 20px;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+
+.slcGravadora{
+    width: 350px;
+}
+
+.slcGenero{
+    width: 375px;
+}
+
+.slcArtista{
+    width: 380px;
+}
+
+input{
+    background-color: #636363;
+    border: none;
+    outline: none;
+}
+
+.nome{
+    display: flex;
+}
+
+.inp-nome{
+    padding-left: 10px;
+    margin-left: 10px;
+    width: 300px;
+    height: 30px;
+    font-size: 18px;
+}
+
+.inp-img{
+    margin-left: 5px;
+    margin-top: 20px;
+    width: 395px;
+}
+
+.alb{
+    width: 910px;
+    height: 430px;
+    margin: 20px;
+    display: flex;
+}
+
+.aparece-img{
+    margin-top: 40px;
+    margin-left: 30px;
+
+}
+
+.data{
+    margin-top: 20px;
+}
+
+.inp-data{
+    height: 30px;
+    margin-left: 5px;
+}
+
+.inputs{
+    margin: 25px;
+}
+
+option{
+    text-transform: uppercase;
+    outline: none;
+    color: black;
+}
+
+.btn{
+    width: 445px;
+    height: 40px;
+    margin-top: 20px;
+    background-color: #3a9cd1;
+    outline: none;
+    border: none;
+}

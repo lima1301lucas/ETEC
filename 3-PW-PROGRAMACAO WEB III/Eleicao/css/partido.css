@@ -1,0 +1,247 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:300,400,500,700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Muli'; 
+    font-size: 16px;
+}
+
+body{
+    background-color: #3A9DFF;
+}
+
+.geral{
+    margin-top: 35px;
+}
+
+.container{
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.icone{
+    width: 35px;
+    height: 35px;
+    margin-left: 670px;
+    margin-top: 30px;
+}
+
+.subtitulo{
+    margin-left: 535px;
+    font-size: 24px;
+    font-weight: 200;
+    color: #fff;
+}
+
+.box-partido{
+    width: 630px;
+    height: 390px;
+    margin-left: 380px;
+    margin-top: 20px;
+    background-color: #fcfcfc;
+    border-radius: 5px;
+    position: absolute;
+    border: 1px solid rgb(1, 1, 175, 0.6);
+}
+
+
+.inp-img{
+    width: 355px;
+    height: 30px;
+    padding-top: 5px;
+    padding-left: 5px;
+    margin-left: 5px;
+    border-radius: 3px;
+    margin-top: 5px;
+    box-shadow: 0 0 0 0;
+    outline: 0;
+}
+
+.descricao{
+    margin-top: 20px;
+}
+
+.texto{
+    margin-left: 208px;
+    margin-top: -20px;
+}
+
+textarea{
+    box-shadow: 0 0 0 0;
+    border: 0.5px solid lightgray;
+    outline: 0;
+    border-radius: 3px;
+    width: 370px;
+    height: 150px;
+}
+
+.imagem{
+    margin-top: 20px;
+}
+
+.inp-nome{
+    width: 415px;
+    height: 30px;
+    margin-left: 5px;
+    border-radius: 3px;
+    margin-top: 5px;
+    box-shadow: 0 0 0 0;
+    border: 0.5px solid lightgray;
+    outline: 0;
+}
+
+.aviso{
+    color: red;
+    font-size: 14px;
+    margin-left: 210px;
+}
+
+button{
+    margin-top: 20px;
+    width: 300px;
+    margin-left: 145px;
+    height: 40px;
+    background-color: transparent;
+    border-radius: 5px;
+    box-shadow: 0 0 0 0;
+    border: 1px solid rgb(1, 1, 175, 0.8);
+    outline: 0;
+    color:blue;
+    font-size: 20px;
+}
+
+button:hover{
+    background-color: #4c8df5;
+    color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+.box-partido{
+    width: 600px;
+    height: 410px;
+    background-color: #084d6e;
+    border-radius: 5px;
+    margin-top: 150px;
+    margin-left: 300px;
+}
+
+.container{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.titulo{
+    display: flex;
+    width: 800px;
+    height: 50px;
+    text-align: center;
+    margin-left: 115px;
+    padding-top: 15px;
+}
+
+.icone{
+    width: 40px;
+    height: 40px;
+} 
+
+.subtitulo{
+    padding-top: 5px;
+    padding-left: 10px;
+    font-size: 26px;
+    font-weight: 500;
+    color: white;
+}
+
+fieldset{
+    border: 1px solid #0a608a;
+}
+
+label{
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 10px;
+    padding-top: 10px;
+    color: white;
+    width: 150px;
+}
+
+.imagem{
+    margin-top: 5px;
+    height: 30px;
+}
+
+.inp-img{
+    margin-top: 10px;
+}
+
+.nome{
+    width: 540px;
+    height: 40px;
+    margin-top: 10px;
+}
+
+.inp-nome{
+    width: 350px;
+    height: 25px;
+    border-radius: 3px;
+    margin-top: 5px;
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+}
+
+textarea{
+    margin-left: 240px;
+    margin-top: -20px;
+    width: 300px;
+    height: 150px;
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+    border-radius: 3px;
+}
+
+.descricao{
+    margin-top: 25px;
+    height: 160px;
+}
+
+.botao{
+    background-color: transparent;
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 175px;
+    height: 25px;
+    color: white;
+    border: 1px solid lightblue;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    font-size: 16px;
+    margin-left: 180px;
+}
+
+.botao:hover{
+    background-color: lightblue;
+    color: #084d6e;
+} */

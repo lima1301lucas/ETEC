@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Gothic A1', sans-serif;
+    color: #CCCCCC;
+    font-size: 16px;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+header {
+    width: 300px;
+    height: 100vh;
+    background-color: #2A2A2A;
+    position: fixed;
+}
+
+.logotipo {
+    width: 250px;
+    height: 100px;
+    margin: 20px;
+}
+
+.frmPesquisa{
+    display: flex;
+}
+
+.pesquisa {
+    padding-top: 10px;
+    margin: 20px;
+}
+
+.inp-pesquisa {
+    width: 190px;
+    height: 40px;
+    background-color: #515151;
+    padding-left: 10px;
+    border: none;
+    outline: none;
+}
+
+.img-pesquisa {
+    width: 50px;
+    height: 40px;
+    background-color: #3E3E3E;
+    outline: none;
+    border: none;
+
+}
+
+.img-pesquisa> :placeholder-shown {
+    color: #A2A2A2;
+    font-size: 25px;
+}
+
+.img-lupa {
+    width: 25px;
+    height: 25px;
+    margin: 7px 12px;
+}
+
+.lista {
+    width: 230px;
+    height: 250px;
+    margin: 20px;
+}
+
+li {
+    list-style: none;
+}
+
+.links{
+    padding-right: 35px;
+    margin-top: 15px;
+    padding: 5px;
+}
+
+span{
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+.links:hover{
+    background-color: rgba(180, 180, 180, 0.5);
+    border-radius: 5px;
+    width: 240px;
+}
+
+a:link {
+    text-decoration: none;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.icon{
+    width: 30px;
+    height: 30px;
+}
+
+.music-player{
+    width: 300px;
+    height: 80px;
+    background: linear-gradient(#56AF37,#A8CC2C);
+    bottom: 0;
+    margin-top: 117px;
+
+}
+
+.nome-musica{
+    margin-top: 10px;
+    color: black;
+    font-weight: bold;
+}
+
+.player{
+    display: flex;
+    margin-left: 10px;
+}
+
+.opcao{
+    width: 28px;
+    height: 28px;
+    padding-left: 20px;
+    margin-top: 5px;
+}
+
