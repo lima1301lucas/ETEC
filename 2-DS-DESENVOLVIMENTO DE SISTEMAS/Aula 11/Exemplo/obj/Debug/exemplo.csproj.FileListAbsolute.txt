@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\exemplo\exemplo\bin\Debug\exemplo.exe.config
+C:\Users\Admin\Desktop\exemplo\exemplo\bin\Debug\exemplo.exe
+C:\Users\Admin\Desktop\exemplo\exemplo\bin\Debug\exemplo.pdb
+C:\Users\Admin\Desktop\exemplo\exemplo\obj\Debug\exemplo.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\exemplo\exemplo\obj\Debug\exemplo.Form1.resources
+C:\Users\Admin\Desktop\exemplo\exemplo\obj\Debug\exemplo.Properties.Resources.resources
+C:\Users\Admin\Desktop\exemplo\exemplo\obj\Debug\exemplo.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\exemplo\exemplo\obj\Debug\exemplo.exe
+C:\Users\Admin\Desktop\exemplo\exemplo\obj\Debug\exemplo.pdb
+C:\Users\Admin\Desktop\exemplo\exemplo\obj\Debug\exemplo.Listar.resources
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\11ª aula\exemplo\exemplo\bin\Debug\exemplo.exe.config
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\11ª aula\exemplo\exemplo\obj\Debug\exemplo.exe
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\11ª aula\exemplo\exemplo\obj\Debug\exemplo.pdb
