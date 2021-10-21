@@ -1,0 +1,13 @@
+p {
+font-family: 'Times New Roman', Times, serif;
+color: rgb(255, 251, 0);
+font-size: 30px;
+background: #ff0000
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+color: rgb(255, 0, 0);
+font-size: 30px;
+    background: #001885
+}
