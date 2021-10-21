@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\exemplo2\exemplo2\bin\Debug\exemplo2.exe.config
+C:\Users\Admin\Desktop\exemplo2\exemplo2\bin\Debug\exemplo2.exe
+C:\Users\Admin\Desktop\exemplo2\exemplo2\bin\Debug\exemplo2.pdb
+C:\Users\Admin\Desktop\exemplo2\exemplo2\obj\Debug\exemplo2.Form1.resources
+C:\Users\Admin\Desktop\exemplo2\exemplo2\obj\Debug\exemplo2.Properties.Resources.resources
+C:\Users\Admin\Desktop\exemplo2\exemplo2\obj\Debug\exemplo2.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\exemplo2\exemplo2\obj\Debug\exemplo2.exe
+C:\Users\Admin\Desktop\exemplo2\exemplo2\obj\Debug\exemplo2.pdb
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\1ª aula\exemplo2\exemplo2\bin\Debug\exemplo2.exe.config
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\1ª aula\exemplo2\exemplo2\obj\Debug\exemplo2.exe
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\1ª aula\exemplo2\exemplo2\obj\Debug\exemplo2.pdb
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\1ª aula\exemplo2\exemplo2\bin\Debug\exemplo2.exe
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\1ª aula\exemplo2\exemplo2\bin\Debug\exemplo2.pdb
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\1ª aula\exemplo2\exemplo2\obj\Debug\exemplo2.csprojResolveAssemblyReference.cache
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\1ª aula\exemplo2\exemplo2\obj\Debug\exemplo2.Form1.resources
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\1ª aula\exemplo2\exemplo2\obj\Debug\exemplo2.Properties.Resources.resources
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\1ª aula\exemplo2\exemplo2\obj\Debug\exemplo2.csproj.GenerateResource.Cache
