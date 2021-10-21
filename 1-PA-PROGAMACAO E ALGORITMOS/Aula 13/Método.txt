@@ -1,7 +1,0 @@
-linha = linha + " " + num.ToString();
-            if (i % 10 == 0) // completou o 10º número na linha
-            {
-                lista.Items.Add(linha);
-                linha = " ";
-            }
-            num = num + acrescimo; // num+=2

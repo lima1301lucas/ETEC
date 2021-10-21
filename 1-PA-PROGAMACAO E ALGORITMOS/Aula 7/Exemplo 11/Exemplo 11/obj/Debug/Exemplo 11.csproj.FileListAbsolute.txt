@@ -1,2 +1,0 @@
-K:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 7\Exemplo 11\Exemplo 11\bin\Debug\Exemplo 11.exe.config
-K:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 7\Exemplo 11\Exemplo 11\obj\Debug\Exemplo 11.csprojResolveAssemblyReference.cache

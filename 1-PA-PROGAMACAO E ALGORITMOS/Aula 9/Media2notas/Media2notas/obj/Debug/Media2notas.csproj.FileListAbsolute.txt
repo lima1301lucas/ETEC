@@ -1,9 +1,0 @@
-K:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 9\Media2notas\Media2notas\bin\Debug\Media2notas.exe.config
-K:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 9\Media2notas\Media2notas\bin\Debug\Media2notas.exe
-K:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 9\Media2notas\Media2notas\bin\Debug\Media2notas.pdb
-K:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 9\Media2notas\Media2notas\obj\Debug\Media2notas.csprojResolveAssemblyReference.cache
-K:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 9\Media2notas\Media2notas\obj\Debug\Media2notas.Form1.resources
-K:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 9\Media2notas\Media2notas\obj\Debug\Media2notas.Properties.Resources.resources
-K:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 9\Media2notas\Media2notas\obj\Debug\Media2notas.csproj.GenerateResource.Cache
-K:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 9\Media2notas\Media2notas\obj\Debug\Media2notas.exe
-K:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 9\Media2notas\Media2notas\obj\Debug\Media2notas.pdb
