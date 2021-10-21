@@ -1,0 +1,12 @@
+botão calcular metodo
+            int mult;
+            if (int.TryParse(ctxMultiPartir.Text, out num) && num > 0 && int.TryParse(ctxMultiplo.Text, out mult) && mult > 0)
+            {
+                if (num % mult != 0) // se num não é multiplo de mult
+                    num = num + (mult - (num % mult));
+                for (i = 1; i <= 1000; i++)
+                {
+                    AlimentaLTB(mult, ltbMultiplos);
+                }
+            }
+            else MessageBox.Show("Digite apenas número inteiro maior que 0 (zero)!", "Erro no preechimento", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);

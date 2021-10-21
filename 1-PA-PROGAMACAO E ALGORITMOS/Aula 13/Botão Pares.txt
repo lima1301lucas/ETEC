@@ -1,0 +1,12 @@
+ if (int.TryParse(ctxPares.Text, out num) && num > 0)
+            {
+                if (num % 2 != 0) // se num é impar
+                    num++; // acrescenta um para chegar no próximo par
+                i = 1;
+                while (i <= 1000)
+                {
+                    AlimentaLTB(2, ltbPares);
+                    i++;
+                }
+            }
+            else MessageBox.Show("Digite apenas número inteiro maior que 0 (zero)!", "Erro no preechimento", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
