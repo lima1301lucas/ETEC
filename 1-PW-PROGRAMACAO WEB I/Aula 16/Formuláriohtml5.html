@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Modelo formulário html 5 </title>
+</head>
+<body bgcolor="#b9cbe8">
+<form>
+<fieldset id="usuário"><legend><b> identificação do usuário </b></legend>
+<p> <label for="cnome"> Nome:</label><input type="text"
+    name="tnome" id="cnome" size="25" maxlength="30"
+    placeholder="Nome completo"</></p>
+    <p> <label for=cSenha>Senha:</label>
+        <input type="password" name="tsenha"
+        id="cSenha" size="8" maxlength="8"
+        placeholder="senha"</></p>
+    <p> <label for="cEmail"><E-mail:</label><input type="email"
+        name="tEmail" id="cEmail" size="20" maxlength="40"
+        placeholder="Digite seu E-mail"></p>
+
+<fieldset id="sexo"><legend>Sexo</legend>
+    <input type="radio" name="tSexo" id="cMasc" checked>
+    <label for= "cMasc">Masculino</label><br>
+
+    <input type="radio" name="tSexo" id="cFem" checked>
+    <label for= "cFem">Feminino</label><br>
+
+<p> Data de Nascimento: <input type="date" name="tNasc"
+    id="cNasc"></p>
+</fieldset>
+<fieldset id="endereço" ><legend> Endereço do usuário </legend>
+    <p><label for="cRua"> Logradouro:</label><input type="text"
+    name="tRua" id="cRua" size="13" maxlength="60"
+                          placeholder="Rua,Av,Trav,..."/></p>
+
+<p>Número:<input type="number" name="tNum" id="cNum" min="0"
+    maxlength="99999"/></p>
+
+<p><label for="cEst">Estado:</label>
+    <select name="tEst" id="cEst">
+<optgroup label="Região Sudeste">
+    <option value="RJ">Rio de Janeiro</option>
+    <option value="SP"selected>São Paulo</option>
+    <option value="MG">Minas Gerais</option>
+    <option value="ES">Espírito Santo</option>
+</optgroup>
+<optgroup label="Região Sul">
+    <option value="RS">Rio Grande do Sul </option>
+    <option value="SC">Santa Catarina</option>
+    <option value="PR">Paraná</option>
+</optgroup>
+<optgroup label="Região Norte">
+    <option value="AM">Amazonas</option>
+    <option value="RR">Roraima</option>
+    <option value="AP">Amapá</option>
+    <option value="PA">Pará</option>
+    <option value="TO">Tocantins</option>
+    <option value="RO">Rondônia</option>
+    <option value="AC">Acre</option>
+    </optgroup>
+
+<optgroup label="Região Nordeste">
+        <option value="BA">Bahia</option>
+        <option value="CE">Ceará</option>
+        <option value="PE">Pernambuco</option>
+        <option value="RN">Rio Grande do Norte</option>
+        <option value="AL">Alagoas</option>
+        <option value="PB">Paraíba</option>
+        <option value="SE">Sergipe</option>
+        <option value="MA">Maranhão</option>
+        <option value="PI">Piauí</option>
+    </optgroup>
+
+<optgroup label="Região Centro-Oeste">
+        <option value="MS">Mato Grosso do Sul</option>
+        <option value="MT">Mato Grosso</option>
+        <option value="GO">Goiás</option>
+     </optgroup>
+
+</select></p>
+<p><label for="cCid">Cidade:</label>
+<input type="text" name="tCid" id="CCid" size="20"
+maxlength="40" placeholder="Sua cidade" list="cidades"></p>
+<datalist id="cidades">
+    <option value="São Paulo"></option>
+    <option value="Campinas"></option>
+    <option value="Sorocaba"></option>
+    <option value="Santos"></option>
+    <option value="Guarulhos"></option>
+    <option value="Osasco"></option>
+    <option value="Praia Grande"></option>
+    <option value="Santo André"></option>
+    <option value="Caieras"></option>
+    <option value="Franco da rocha"></option>
+    <option value="Francisco Morato"></option>
+    <option value="Diadema"></option>
+    <option value="Mauá"></option>
+    <option value="Cajamar"></option>
+</datalist> 
+
+</fieldset>
+
+<fieldset id="mensagem"><legend>Mensagem do usuário</legend>
+    <p><label for="cUrg">Grau de urgência:</label>
+    <p><label for="cMsg">Mensagem:</label>
+        <textarea name="tMsg" id="cMsg" cols="45" rows="5"
+        placeholder="Digite aqui a sus mensagem"></textarea></p>
+    </fielset>
+        <input type="submit" value="Enviar"/>
+        <input type="reset" value="Limpar"/>
+</form>   
+</body>
+</html>
