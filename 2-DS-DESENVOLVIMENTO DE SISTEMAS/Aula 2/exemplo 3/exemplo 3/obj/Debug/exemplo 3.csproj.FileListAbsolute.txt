@@ -1,0 +1,28 @@
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 3\exemplo 3\bin\Debug\exemplo 3.exe.config
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 3\exemplo 3\bin\Debug\exemplo 3.exe
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 3\exemplo 3\bin\Debug\exemplo 3.pdb
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 3\exemplo 3\obj\Debug\exemplo 3.csprojResolveAssemblyReference.cache
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 3\exemplo 3\obj\Debug\exemplo_3.Calculadora.resources
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 3\exemplo 3\obj\Debug\exemplo_3.Properties.Resources.resources
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 3\exemplo 3\obj\Debug\exemplo 3.csproj.GenerateResource.Cache
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 3\exemplo 3\obj\Debug\exemplo 3.exe
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 3\exemplo 3\obj\Debug\exemplo 3.pdb
+H:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 3\exemplo 3\bin\Debug\exemplo 3.exe.config
+H:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 3\exemplo 3\obj\Debug\exemplo 3.exe
+H:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 3\exemplo 3\obj\Debug\exemplo 3.pdb
+H:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 3\exemplo 3\bin\Debug\exemplo 3.exe
+H:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 3\exemplo 3\bin\Debug\exemplo 3.pdb
+H:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 3\exemplo 3\obj\Debug\exemplo 3.csprojResolveAssemblyReference.cache
+H:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 3\exemplo 3\obj\Debug\exemplo_3.Calculadora.resources
+H:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 3\exemplo 3\obj\Debug\exemplo_3.Properties.Resources.resources
+H:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 3\exemplo 3\obj\Debug\exemplo 3.csproj.GenerateResource.Cache
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 3\exemplo 3\bin\Debug\exemplo 3.exe.config
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 3\exemplo 3\bin\Debug\exemplo 3.exe
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 3\exemplo 3\bin\Debug\exemplo 3.pdb
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 3\exemplo 3\obj\Debug\exemplo 3.csprojAssemblyReference.cache
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 3\exemplo 3\obj\Debug\exemplo_3.Calculadora.resources
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 3\exemplo 3\obj\Debug\exemplo_3.Properties.Resources.resources
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 3\exemplo 3\obj\Debug\exemplo 3.csproj.GenerateResource.cache
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 3\exemplo 3\obj\Debug\exemplo 3.csproj.CoreCompileInputs.cache
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 3\exemplo 3\obj\Debug\exemplo 3.exe
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 3\exemplo 3\obj\Debug\exemplo 3.pdb
