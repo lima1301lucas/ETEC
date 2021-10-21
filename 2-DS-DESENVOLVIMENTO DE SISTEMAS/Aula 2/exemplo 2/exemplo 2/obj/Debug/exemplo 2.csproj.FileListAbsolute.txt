@@ -1,0 +1,25 @@
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 2\exemplo 2\bin\Debug\exemplo 2.exe.config
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 2\exemplo 2\bin\Debug\exemplo 2.exe
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 2\exemplo 2\bin\Debug\exemplo 2.pdb
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 2\exemplo 2\obj\Debug\exemplo 2.csprojResolveAssemblyReference.cache
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 2\exemplo 2\obj\Debug\exemplo_2.Form1.resources
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 2\exemplo 2\obj\Debug\exemplo_2.Form2.resources
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 2\exemplo 2\obj\Debug\exemplo_2.Form3.resources
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 2\exemplo 2\obj\Debug\exemplo_2.Form4.resources
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 2\exemplo 2\obj\Debug\exemplo_2.Properties.Resources.resources
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 2\exemplo 2\obj\Debug\exemplo 2.csproj.GenerateResource.Cache
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 2\exemplo 2\obj\Debug\exemplo 2.exe
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 2\exemplo 2\obj\Debug\exemplo 2.pdb
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 2\exemplo 2\bin\Debug\exemplo 2.exe.config
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 2\exemplo 2\bin\Debug\exemplo 2.exe
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 2\exemplo 2\bin\Debug\exemplo 2.pdb
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 2\exemplo 2\obj\Debug\exemplo 2.csprojAssemblyReference.cache
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 2\exemplo 2\obj\Debug\exemplo_2.Form1.resources
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 2\exemplo 2\obj\Debug\exemplo_2.Form2.resources
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 2\exemplo 2\obj\Debug\exemplo_2.Form3.resources
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 2\exemplo 2\obj\Debug\exemplo_2.Form4.resources
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 2\exemplo 2\obj\Debug\exemplo_2.Properties.Resources.resources
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 2\exemplo 2\obj\Debug\exemplo 2.csproj.GenerateResource.cache
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 2\exemplo 2\obj\Debug\exemplo 2.csproj.CoreCompileInputs.cache
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 2\exemplo 2\obj\Debug\exemplo 2.exe
+E:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\2ª aula\exemplo 2\exemplo 2\obj\Debug\exemplo 2.pdb
