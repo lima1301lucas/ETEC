@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Retângulo\Retângulo\bin\Debug\Retângulo.exe.config
+C:\Users\Admin\Desktop\Retângulo\Retângulo\bin\Debug\Retângulo.exe
+C:\Users\Admin\Desktop\Retângulo\Retângulo\bin\Debug\Retângulo.pdb
+C:\Users\Admin\Desktop\Retângulo\Retângulo\obj\Debug\Retângulo.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Retângulo\Retângulo\obj\Debug\Retângulo.exe
+C:\Users\Admin\Desktop\Retângulo\Retângulo\obj\Debug\Retângulo.pdb
+D:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 3\Retângulo\Retângulo\bin\Debug\Retângulo.exe.config
+D:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 3\Retângulo\Retângulo\obj\Debug\Retângulo.exe
+D:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 3\Retângulo\Retângulo\obj\Debug\Retângulo.pdb
+K:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 3\Retângulo\Retângulo\bin\Debug\Retângulo.exe.config
+K:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 3\Retângulo\Retângulo\obj\Debug\Retângulo.exe
+K:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 3\Retângulo\Retângulo\obj\Debug\Retângulo.pdb

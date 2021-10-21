@@ -1,0 +1,29 @@
+C:\Users\lima1\Desktop\Raizes\Raizes\obj\Debug\Raizes.csprojAssemblyReference.cache
+C:\Users\lima1\Desktop\Raizes\Raizes\obj\Debug\Raizes.Raizes.resources
+C:\Users\lima1\Desktop\Raizes\Raizes\obj\Debug\Raizes.Properties.Resources.resources
+C:\Users\lima1\Desktop\Raizes\Raizes\obj\Debug\Raizes.csproj.GenerateResource.cache
+C:\Users\lima1\Desktop\Raizes\Raizes\obj\Debug\Raizes.csproj.CoreCompileInputs.cache
+C:\Users\lima1\Desktop\Raizes\Raizes\bin\Debug\Raizes.exe.config
+C:\Users\lima1\Desktop\Raizes\Raizes\bin\Debug\Raizes.exe
+C:\Users\lima1\Desktop\Raizes\Raizes\bin\Debug\Raizes.pdb
+C:\Users\lima1\Desktop\Raizes\Raizes\obj\Debug\Raizes.exe
+C:\Users\lima1\Desktop\Raizes\Raizes\obj\Debug\Raizes.pdb
+J:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 11\Raizes\Raizes\bin\Debug\Raizes.exe.config
+J:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 11\Raizes\Raizes\obj\Debug\Raizes.exe
+J:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 11\Raizes\Raizes\obj\Debug\Raizes.pdb
+J:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 11\Raizes\Raizes\bin\Debug\Raizes.exe
+J:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 11\Raizes\Raizes\bin\Debug\Raizes.pdb
+J:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 11\Raizes\Raizes\obj\Debug\Raizes.csprojResolveAssemblyReference.cache
+J:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 11\Raizes\Raizes\obj\Debug\Raizes.Raizes.resources
+J:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 11\Raizes\Raizes\obj\Debug\Raizes.Properties.Resources.resources
+J:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 11\Raizes\Raizes\obj\Debug\Raizes.csproj.GenerateResource.Cache
+D:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 11\Raizes\Raizes\bin\Debug\Raizes.exe.config
+D:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 11\Raizes\Raizes\bin\Debug\Raizes.exe
+D:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 11\Raizes\Raizes\bin\Debug\Raizes.pdb
+D:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 11\Raizes\Raizes\obj\Debug\Raizes.csprojAssemblyReference.cache
+D:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 11\Raizes\Raizes\obj\Debug\Raizes.Raizes.resources
+D:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 11\Raizes\Raizes\obj\Debug\Raizes.Properties.Resources.resources
+D:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 11\Raizes\Raizes\obj\Debug\Raizes.csproj.GenerateResource.cache
+D:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 11\Raizes\Raizes\obj\Debug\Raizes.csproj.CoreCompileInputs.cache
+D:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 11\Raizes\Raizes\obj\Debug\Raizes.exe
+D:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 11\Raizes\Raizes\obj\Debug\Raizes.pdb

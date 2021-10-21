@@ -1,0 +1,6 @@
+K:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 6\Cálculo de médias\Cálculo de médias\bin\Debug\Cálculo de médias.exe.config
+K:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 6\Cálculo de médias\Cálculo de médias\bin\Debug\Cálculo de médias.exe
+K:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 6\Cálculo de médias\Cálculo de médias\bin\Debug\Cálculo de médias.pdb
+K:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 6\Cálculo de médias\Cálculo de médias\obj\Debug\Cálculo de médias.csprojResolveAssemblyReference.cache
+K:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 6\Cálculo de médias\Cálculo de médias\obj\Debug\Cálculo de médias.exe
+K:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 6\Cálculo de médias\Cálculo de médias\obj\Debug\Cálculo de médias.pdb

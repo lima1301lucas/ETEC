@@ -1,0 +1,3 @@
+C:\Users\Admin\Desktop\A\RhaissaSalvou\RhaissaSalvou\bin\Debug\RhaissaSalvou.exe.config
+D:\1DS\A\RhaissaSalvou\RhaissaSalvou\obj\Debug\RhaissaSalvou.csprojAssemblyReference.cache
+D:\1DS\A\RhaissaSalvou\RhaissaSalvou\obj\Debug\RhaissaSalvou.csproj.CoreCompileInputs.cache
