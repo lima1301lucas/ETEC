@@ -1,0 +1,49 @@
+.cabecalho{
+    background: silver;
+    height: 12px;
+    width: 100%;
+    padding: 3px;
+    display: table;
+}
+
+.logo{
+    background: blue;
+    float: left;
+    width: 20%;
+    text-align: left;
+}
+
+.nav{
+    background: yellow;
+    padding: 2px;
+}
+
+.banner{
+    background: red;
+    float: right;
+    width: 80%;
+    text-align: left;
+}
+
+.corpo{
+    background: white;
+    width: 100%;
+    display: table;
+}
+
+.menu{
+    background: cyan;
+    float: left;
+    width: 30%;
+    overflow: auto;
+}
+
+.rodape{
+    background: gray;
+    text-align: center;
+}
+
+.conteudo{
+    background: purple;
+    margin-left: 30%;
+}
