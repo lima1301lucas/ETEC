@@ -1,0 +1,16 @@
+c:\users\admin\documents\visual studio 2013\Projects\Exemplo\Exemplo\bin\Debug\Exemplo.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Exemplo\Exemplo\obj\Debug\Exemplo.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Exemplo\Exemplo\obj\Debug\Exemplo.frmPrincipal.resources
+c:\users\admin\documents\visual studio 2013\Projects\Exemplo\Exemplo\obj\Debug\Exemplo.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Exemplo\Exemplo\obj\Debug\Exemplo.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Exemplo\Exemplo\bin\Debug\Exemplo.exe
+c:\users\admin\documents\visual studio 2013\Projects\Exemplo\Exemplo\bin\Debug\Exemplo.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Exemplo\Exemplo\obj\Debug\Exemplo.exe
+c:\users\admin\documents\visual studio 2013\Projects\Exemplo\Exemplo\obj\Debug\Exemplo.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Exemplo\Exemplo\obj\Debug\Exemplo.frmIncluir.resources
+C:\Users\Admin\Desktop\Exemplo\Exemplo\Exemplo\bin\Debug\Exemplo.exe.config
+C:\Users\Admin\Desktop\Exemplo\Exemplo\Exemplo\obj\Debug\Exemplo.exe
+C:\Users\Admin\Desktop\Exemplo\Exemplo\Exemplo\obj\Debug\Exemplo.pdb
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\13ª aula\Exemplo\Exemplo\Exemplo\bin\Debug\Exemplo.exe.config
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\13ª aula\Exemplo\Exemplo\Exemplo\obj\Debug\Exemplo.exe
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\13ª aula\Exemplo\Exemplo\Exemplo\obj\Debug\Exemplo.pdb
