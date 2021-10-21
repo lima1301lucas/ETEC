@@ -1,0 +1,18 @@
+C:\Users\Admin\Desktop\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\Admin\Desktop\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\Admin\Desktop\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\Admin\Desktop\CRUD\CRUD\obj\Debug\CRUD.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\CRUD\CRUD\obj\Debug\CRUD.FrmCrud.resources
+C:\Users\Admin\Desktop\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\Admin\Desktop\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\Admin\Desktop\CRUD\CRUD\obj\Debug\CRUD.pdb
+F:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 14\CRUD\CRUD\bin\Debug\CRUD.exe.config
+F:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 14\CRUD\CRUD\obj\Debug\CRUD.exe
+F:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 14\CRUD\CRUD\obj\Debug\CRUD.pdb
+F:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 14\CRUD\CRUD\bin\Debug\CRUD.exe
+F:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 14\CRUD\CRUD\bin\Debug\CRUD.pdb
+F:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 14\CRUD\CRUD\obj\Debug\CRUD.csprojResolveAssemblyReference.cache
+F:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 14\CRUD\CRUD\obj\Debug\CRUD.FrmCrud.resources
+F:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 14\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+F:\DESENVOLVIMENTO DE SISTEMAS\1º MÓDULO\PROGAMAÇÃO E ALGORITMOS\Aula 14\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.Cache
