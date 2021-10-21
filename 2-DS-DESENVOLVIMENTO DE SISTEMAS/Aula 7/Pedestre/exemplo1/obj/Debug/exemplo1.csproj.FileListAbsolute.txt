@@ -1,0 +1,29 @@
+C:\Users\Admin\Desktop\exemplo1\exemplo1\bin\Debug\exemplo1.exe.config
+C:\Users\Admin\Desktop\exemplo1\exemplo1\bin\Debug\exemplo1.exe
+C:\Users\Admin\Desktop\exemplo1\exemplo1\bin\Debug\exemplo1.pdb
+C:\Users\Admin\Desktop\exemplo1\exemplo1\obj\Debug\exemplo1.Properties.Resources.resources
+C:\Users\Admin\Desktop\exemplo1\exemplo1\obj\Debug\exemplo1.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\exemplo1\exemplo1\obj\Debug\exemplo1.exe
+C:\Users\Admin\Desktop\exemplo1\exemplo1\obj\Debug\exemplo1.pdb
+C:\Users\Admin\Desktop\exemplo1\exemplo1\obj\Debug\exemplo1.Semaforo.resources
+C:\Users\Admin\Desktop\Pedestre\exemplo1\bin\Debug\exemplo1.exe.config
+C:\Users\Admin\Desktop\Pedestre\exemplo1\obj\Debug\exemplo1.exe
+C:\Users\Admin\Desktop\Pedestre\exemplo1\obj\Debug\exemplo1.pdb
+C:\Users\Admin\Desktop\Pedestre\exemplo1\bin\Debug\exemplo1.exe
+C:\Users\Admin\Desktop\Pedestre\exemplo1\bin\Debug\exemplo1.pdb
+C:\Users\Admin\Desktop\Pedestre\exemplo1\obj\Debug\exemplo1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Pedestre\exemplo1\obj\Debug\exemplo1.Pedestre.resources
+C:\Users\Admin\Desktop\Pedestre\exemplo1\obj\Debug\exemplo1.Properties.Resources.resources
+C:\Users\Admin\Desktop\Pedestre\exemplo1\obj\Debug\exemplo1.csproj.GenerateResource.Cache
+H:\Pedestre\exemplo1\bin\Debug\exemplo1.exe.config
+H:\Pedestre\exemplo1\obj\Debug\exemplo1.exe
+H:\Pedestre\exemplo1\obj\Debug\exemplo1.pdb
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\7ª aula\Pedestre\exemplo1\bin\Debug\exemplo1.exe.config
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\7ª aula\Pedestre\exemplo1\obj\Debug\exemplo1.exe
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\7ª aula\Pedestre\exemplo1\obj\Debug\exemplo1.pdb
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\7ª aula\Pedestre\exemplo1\bin\Debug\exemplo1.exe
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\7ª aula\Pedestre\exemplo1\bin\Debug\exemplo1.pdb
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\7ª aula\Pedestre\exemplo1\obj\Debug\exemplo1.csprojResolveAssemblyReference.cache
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\7ª aula\Pedestre\exemplo1\obj\Debug\exemplo1.Pedestre.resources
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\7ª aula\Pedestre\exemplo1\obj\Debug\exemplo1.Properties.Resources.resources
+G:\DESENVOLVIMENTO DE SISTEMAS\2º MÓDULO\DESENVOLVIMENTO DE SISTEMAS\7ª aula\Pedestre\exemplo1\obj\Debug\exemplo1.csproj.GenerateResource.Cache
