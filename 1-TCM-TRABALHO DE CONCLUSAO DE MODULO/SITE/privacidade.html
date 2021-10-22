@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="icon" href="img/icone.png">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="CSS/bootstrap.min.css">
+    <link rel="stylesheet" href="CSS/style.css">
+    <title>CinemaZ</title>
+</head>
+
+<body>
+    <!--Início do cabeçalho-->
+
+    <header>
+        <div class="container">
+            <nav class="navbar navbar-expand-sm justify-content-between fixed-top menu">
+                <a class="col-2 navbar-brand justify-content-around" href="index.html">
+                    <img src="img/cinema_z.jpg" alt="Logo" class="logo-nav">
+                </a>
+                <a onclick="openMenu(this)">
+                    <span class="menu-mobile"></span>
+                </a>
+                <ul class="navbar-nav justify-content-around" id="menu-navbar">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="programacao.html">PROGRAMAÇÃO</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="localizacao.html">LOCALIZAÇÃO</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="contato.html">CONTATO</a>
+                    </li>
+                    <li class="nav-item drop" onclick="openDropdown(this)">
+                        <span class="dropbtn">INSTITUCIONAL</span>
+                        <div class="dropdown">
+                            <div class="dropdown-content">
+                                <a class="link-drop" href="sobrenos.html">SOBRE NÓS</a>
+                                <a class="link-drop" href="duvidas.html">FALE CONOSCO</a>
+                                <a class="link-drop" href="procon.html">PROCON</a>
+                                <a class="link-drop" href="trabalheconosco.html">TRABALHE CONOSCO</a>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+                <span class="col-5 col-md-2 registro" onclick="teste()"><span class="name-user">OLÁ
+                        VISITANTE&nbsp;</span><img src="img/user.png"></span>
+            </nav>
+            <div class="area-login" id="box-login">
+                <a class="btn branco" href="login.html"> LOGIN</a>
+                <p>Ainda não é cliente?</p>
+                <a class="cadastrar" href="entrar.html">CADASTRE-SE</a>
+            </div>
+        </div>
+    </header>
+    <!----------------------------------------------------------------------------------------------------------------------------->
+
+    <section class="localizacao">
+        <h2 class="titulo">POLÍTICA DE PRIVACIDADE</h2>
+        <div class="container">
+            <div class="col-12 d-inline-flex flex-wrap">
+                <div class="col-12 d-flex justify-content-center flex-wrap">
+                    <p class=" texto col-12">Nós, da CINEMAZ S.A., temos como valores a honestidade, a integridade, o
+                        respeito ao cliente, aos parceiros e a toda comunidade, a excelência no desempenho e, sobretudo,
+                        a segurança. Sabemos da importância que, atualmente, a compra de ingressos online tem no dia a
+                        dia, bem como da confiança necessária por parte de nossos clientes, razão pela qual primamos
+                        pela segurança e confidencialidade das informações fornecidas por você.
+
+                        Disponibilizamos de maneira clara, simplificada e acessível as nossas práticas relativas à
+                        coleta e ao compartilhamento de informações dos usuários, adequando-nos às exigências contidas
+                        na Lei n.º 8.078/1990 (Código de Defesa do Consumidor),na Lei n.º 12.969/2014 (Marco Civil da
+                        Internet) e em demais legislações pertinentes.</p>
+                </div>
+            </div>
+            <h4 class="subtitulo">Informações suas que coletamos</h4>
+            <div class="col-12 d-inline-flex flex-wrap">
+                <div class="col-12 d-flex justify-content-center flex-wrap">
+                    <p class=" texto col-12"><strong>Informações Gerais dos Usuários:</strong> quaisquer informações que
+                        você insira no
+                        Site, ou nos forneça por outro meio (ex.: Fale Conosco, serão por nós coletadas e armazenas,
+                        tais como:
+
+                        Informações Pessoais que possam identificá-lo, a exemplo do seu nome completo, número de
+                        telefone, e-mail, CPF, data de nascimento, sexo, estado civil e perfil em rede social;
+
+                        Informações relativas ao seu cartão de crédito, como o número do cartão, o nome do titular, a
+                        data de validade, a bandeira, a instituição financeira mantenedora, etc;
+
+                        Informações sobre as suas preferências de cinema, como gêneros de filmes, unidades da Cinemark,
+                        salas, sessões, ingressos, programas de fidelidade, promoções, bilheterias, produtos e serviços,
+                        etc.;
+
+                        Informações Gerais de Outras Fontes: ao aceitar esta Política de Privacidade, você nos autoriza,
+                        expressamente, a obter suas Informações Pessoais fornecidas por terceiros a quem você tenha
+                        consentido em disponibilizar, assim como a armazená-las em nosso banco de dados. Exemplos de
+                        informações que poderemos vir a receber dizem respeito à atualização de endereço para entregas,
+                        histórico de compras e informações demográficas.
+
+                        Todas as informações coletadas e armazenadas são necessárias ao registro do usuário no nosso
+                        Site, possibilitando-se a compra de produtos e serviços, a participação em pesquisas, concursos
+                        ou promoções, a realização de transações e o contato conosco.
+
+                        Nós não armazenaremos, em hipótese alguma, Informações Pessoais de pessoas menores de 18
+                        (dezoito) anos de idade, ou não emancipadas.
+
+                        Nós, tampouco, armazenaremos dados pessoais além daqueles necessários a finalidade para a qual
+                        nos foi dado o expresso consentimento do titular, muito menos dados pessoais cuja coleta e
+                        armazenamento não tenham sido autorizados.
+
+                        Você pode optar por não nos fornecer tais informações, sabendo, no entanto, que o uso de certas
+                        funcionalidades do Site ficará prejudicado. Caso você opte por não nos fornecer as informações,
+                        não poderemos ser responsabilizados por danos eventualmente causados pela utilização indevida
+                        dos serviços por terceiros.</p>
+                </div>
+            </div>
+
+            <h4 class="subtitulo">Modo de coleta das informações</h4>
+            <div class="col-12 d-inline-flex flex-wrap">
+                <div class="col-12 d-flex justify-content-center flex-wrap">
+                    <p class=" texto col-12">Utilizaremos informações sobre o seu cartão de crédito a fim de completar
+                        as compras feitas em nosso Site.
+
+                        Coletaremos, ainda, suas Informações Pessoais para as seguintes finalidades:
+
+                        Fornecer os produtos e serviços que você solicitar;
+
+                        Fornecer confirmações e atualização de sua compra;
+
+                        Gerenciar sua conta, incluindo o processamento de faturas e notificações relativas aos produtos
+                        e serviços adquiridos;
+
+                        Comunicarmos com você;
+
+                        Responder aos seus questionamentos e comentários;
+
+                        Entrar em contato para realizar qualquer serviço de atendimento ao cliente, quando necessário;
+
+                        Avaliar o interesse em nossos produtos, serviços websites, aperfeiçoando-os;
+
+                        Notificá-lo, por e-mail ou postagem em redes sociais, sobre ofertas especiais e produtos e
+                        serviços de cinema que possam interessa-lo;
+
+                        Personalizar a sua experiência com o Site;
+
+                        Recompensá-lo como membro de qualquer programa de fidelidade ao qual você opte por aderir;
+
+                        Solicitar informações sobre você, incluindo por meio de pesquisas;
+
+                        Resolver controvérsias, cobrar faturas e solucionar problemas;
+
+                        Impedir atividades ilegais ou contrárias a esta Política de Privacidade;
+
+                        Fazer cumprir o nosso Termo de Uso.
+
+                        Utilizaremos suas Informações Pessoais sobre preferência de cinema para o envio de Comunicações
+                        via E-mail, visando facilitar o seu acesso às vantagens e oportunidades de filmes e sessões
+                        disponibilizados no Site, de acordo com a sua área de interesse. Por exemplo: se você procurar
+                        um filme para as salas Cinemark do Shopping Center Norte, em São Paulo, em nosso Site e salvar a
+                        sua opção, ou não prosseguir com a compra do ingresso, nós poderemos enviar um e-mail para
+                        lembra-lo do (s) ingresso (s) já selecionado (s) e salvo (s), ou para oferecer um desconto
+                        especial caso decida prosseguir com a aquisição. Nós acreditamos que essas mensagens de e-mail
+                        fornecerão informações úteis sobre ofertas especiais relacionadas a filmes disponíveis em nosso
+                        Site.
+
+                        Esteja ciente de que você terá oportunidade de obter benefícios se optar por receber tais
+                        mensagens de e-mail. Por favor, analise suas “Alternativas quanto à coleta e ao uso de suas
+                        informações”, abaixo relacionadas, para entender como se darão as comunicações via e-mail.</p>
+                </div>
+            </div>
+
+
+            <h4 class="subtitulo">Compartilhamento de suas informações</h4>
+            <div class="col-12 d-inline-flex flex-wrap">
+                <div class="col-12 d-flex justify-content-center flex-wrap">
+                    <p class=" texto col-12">Ao concordar com esta Política de Privacidade, você entende e aceita que
+                        nós poderemos compartilhar as Informações de Usuários com as seguintes entidades:
+
+                        Fornecedores: distribuidores de filmes, fabricantes de alimentos e bebidas, e prestadores de
+                        serviços. Em nosso Site, todos os serviços prestados por terceiros são descritos como tais.
+                        Recomendamos que você reveja as políticas de privacidade de qualquer terceiro fornecedor, cujos
+                        produtos e serviços sejam adquiridos por meio deste Site. Saiba que tais fornecedores, também,
+                        poderão contatá-lo, se necessário, para obter informações pessoais adicionais, facilitar suas
+                        compras ou responder a alguma crítica, elogio ou sugestão que você venha a fazer.
+
+                        Prestadores de Serviços: terceiros que fornecem produtos ou prestam serviços em nosso nome,
+                        incluindo processamento de cartões de crédito, análises comerciais, data center, SAC, marketing,
+                        distribuição de pesquisas ou programas de sorteios, e prevenção de fraudes. Podemos, também,
+                        autorizar terceiros prestadores de serviços a coletar informações em nosso nome, operar os
+                        recursos do Site e facilitar o recebimento de publicidade online personalizada de acordo com a
+                        as suas áreas de interesses, desde que o façam na medida do estritamente necessário ao
+                        desempenho de suas funções, estando vedados o compartilhamento e a utilização das suas
+                        informações para qualquer outro fim. Esteja ciente de que nós não controlamos as práticas de
+                        privacidade dos Parceiros de Negócios, tampouco nos responsabilizamos por seus atos.
+
+                        Parceiros de Negócios: terceiros com os quais poderemos oferecer produtos ou serviços
+                        conjuntamente, cuja identificação se dá quando o respectivo nome aparecer no anúncio. Se você
+                        decidir acessar tais serviços ou produtos opcionais, nós poderemos compartilhar informações
+                        sobre você com os Parceiros de Negócios, para que eles possam contatá-lo diretamente, por e-mail
+                        ou postagem em redes sociais. Esteja ciente de que nós não controlamos as práticas de
+                        privacidade dos Parceiros de Negócios, tampouco nos responsabilizamos por seus atos.
+
+                        Direcionamento por outros sites: se você for direcionado para o Site a partir de algum outro
+                        website (“Link externo”), poderemos compartilhar algumas informações sobre você com tal website,
+                        para que possam contatá-lo diretamente. Não estabelecemos limitações ao uso, por parte de outros
+                        websites, das suas Informações Pessoais, mas recomendamos que você reveja as políticas de
+                        privacidade de qualquer website que o tenha direcionado para este Site.
+
+                        Empresas integrantes da nossa família corporativa: podemos compartilhar informações com as
+                        nossas afiliadas nos setores de entretenimento. Este compartilhamento nos permite fornecer
+                        informações sobre produtos e serviços relativos a entretenimento que possam ser do seu
+                        interesse. Na medida em que nossas afiliadas tenham acesso às suas informações, elas obedecerão
+                        às práticas compatíveis com esta Política de Privacidade.
+
+                        Não compartilharemos informações pessoais com demais empresas, organizações e indivíduos
+                        externos ao Site, salvo em uma das seguintes circunstâncias:
+
+                        Com a sua autorização
+
+                        Compartilharemos informações pessoais com empresas, organizações ou indivíduos externos
+                        (públicos ou privados) ao Site, quando tivermos a sua autorização expressa para isso. Nestas
+                        hipóteses, solicitamos sua autorização (“opt-in”) para compartilhamento de quaisquer Informações
+                        Gerais dos Usuários ou de Outras Fontes.
+
+                        Poderemos compartilhar informações agregadas ou anônimas com terceiros, incluindo anunciantes e
+                        investidores. Por exemplo, poderemos informar aos nossos anunciantes o número de visitas que
+                        nosso Site recebe ou quais os filmes, sessões e salas de cinema mais populares. Estas
+                        informações não contêm nenhum dado pessoal e são utilizadas para desenvolver conteúdos e
+                        serviços que esperamos sejam do seu interesse, e para avaliar a eficácia de nossa publicidade.
+
+                        A sua autorização poderá, a qualquer tempo, ser revogada mediante solicitação aos nossos canais
+                        de comunicação (e-mail, redes sociais, Fale Conosco, etc.), o que implica na exclusão definitiva
+                        das suas Informações Pessoais que nos tiver fornecido, ressalvada as hipóteses de guarda
+                        obrigatória a que nós estamos legalmente adstritos (“opt-out”).
+
+                        Por motivos legais
+
+                        Compartilharemos, de boa-fé, Informações Pessoais com empresas, organizações ou indivíduos
+                        externos (públicos ou privados) ao Site, desde que necessário para:
+
+                        Cumprir qualquer legislação, regulamentação, atuação governamental ou ordem judicial;
+
+                        Cumprir os Termos de Serviço aplicáveis, inclusive investigação de possíveis violações;
+
+                        Detectar, impedir ou abordar alguma outra forma de fraude, questões técnicas ou de segurança;
+
+                        Proteger contra dano a direitos, propriedade ou segurança do Site, nossos usuários ou o público
+                        em geral, conforme solicitado ou previsto em lei.</p>
+                </div>
+            </div>
+
+            <h4 class="subtitulo">Acesso às suas informações</h4>
+            <div class="col-12 d-inline-flex flex-wrap">
+                <div class="col-12 d-flex justify-content-center flex-wrap">
+                    <p class=" texto col-12">Você pode acessar e atualizar as suas Informações Pessoais visitando a
+                        página “Meu Perfil”, no Site. Você pode, ainda, encerrar a sua conta contatando-nos pelo Fale
+                        Conosco ou visitando a página “Encerramento de Conta”, em “Meu Perfil”.
+
+                        Esteja ciente de que, depois de encerrar a conta, você não poderá acessá-la, ou acessar qualquer
+                        umas Informações Gerais de Usuários ou de Outras Fontes, podendo abrir uma nova conta a qualquer
+                        momento. Todavia, poderemos manter determinadas informações relativas à conta encerrada para
+                        fins de análise, bem como para garantir a integridade dos arquivos, de acordo com a lei.</p>
+                </div>
+            </div>
+
+            <h4 class="subtitulo">Opção quanto à coleta e ao uso de suas informações</h4>
+            <div class="col-12 d-inline-flex flex-wrap">
+                <div class="col-12 d-flex justify-content-center flex-wrap">
+                    <p class=" texto col-12">Conforme informado acima, você poderá optar por não nos oferecer qualquer
+                        informação, embora boa parte delas sejam necessárias para fazer compra de ingressos, ou para
+                        aproveitar os recursos oferecidos neste Site.
+
+                        Você, também, poderá adicionar ou atualizar informações e encerrar a sua conta conforme descrito
+                        acima.
+
+                        Quando você se registrar como usuário do Site, terá a oportunidade de escolher se deseja ou não
+                        receber mensagens de e-mail, SMS, ou via redes sociais, sobre ofertas nossas especiais, bem como
+                        sobre produtos e serviços de terceiros, selecionados a partir das suas Informações Pessoais.
+                        Como membro registrado neste Site, você poderá modificar as suas opções a qualquer momento
+                        acessando as Configurações de E-mail, na página Meu Perfil. Você terá, também, oportunidade de
+                        fazer tais opções sempre que preencher qualquer formulário em nosso Site, por meio do qual você
+                        nos forneça o seu endereço eletrônico.
+
+                        Independentemente de ser ou não um membro registrado, você, também, terá a oportunidade de optar
+                        por não receber mais mensagens.
+
+                        Esteja ciente de que nós nos reservamos o direito de lhe enviar outras comunicações, incluindo
+                        anúncios de serviço, mensagens administrativas e pesquisas relativas à sua conta ou às suas
+                        transações no Site, sem oferecer a você a opção de não recebê-las.</p>
+                </div>
+            </div>
+
+            <h4 class="subtitulo">Cookies e outras tecnologias de rede</h4>
+            <div class="col-12 d-inline-flex flex-wrap">
+                <div class="col-12 d-flex justify-content-center flex-wrap">
+                    <p class=" texto col-12">Nós, automaticamente, coletamos algumas informações sobre o seu computador
+                        ou dispositivo móvel quando você visita o Site. Por exemplo, iremos recolher o seu endereço de
+                        IP, data e horário de acesso, o software de navegação (Firefox, Internet Explorer, Safari,
+                        Google Chrome, Microsoft Edge, entre outros), o sistema operacional (Mac OS, Linux e Windows, em
+                        computadores; Android, iOS e Windows Phone, em dispositivos móveis) e o site de referência.
+                        Também, poderemos coletar informações sobre as suas atividades online, tais como filmes e
+                        sessões pesquisados, desde que concernentes à atividade empresarial que a Cinemark exerce. Um
+                        dos nossos objetivos na coleta automática dessas informações é ajudar a personalizar a sua
+                        experiência como usuário.
+
+                        Como membro ou visitante do Site, você receberá um arquivo de cookie permanente no disco rígido
+                        do seu computador ou dispositivo móvel. Você poderá optar por não receber nenhum arquivo desse
+                        tipo, programando o seu navegador para recusar cookies ou avisar antes de aceita-los. Ao optar
+                        por desativar ou não receber os cookies, saiba que você ficará impossibilitado de usufruir de
+                        diversas funcionalidades oferecidas pelo Site.
+
+                        Quando você acessar as áreas “Meus Ingressos” ou “Meu Perfil”, fizer reservas ou compra um
+                        produto ou serviço, nós poderemos solicitar que você o faça como membro, usando o login de
+                        usuário e senha. Uma vez que você acesse o Site como membro, nós gravamos o login e o nome
+                        constantes da sua conta num arquivo de cookie em seu computador ou dispositivo móvel. Também,
+                        poderemos gravar a sua senha neste arquivo cookie, como dado criptografado, se você tiver
+                        marcado a caixa “Salvar esta senha para login automático”. O seu login de usuário, a senha e o
+                        seu nome constantes da sua conta são armazenados num arquivo cookie como dados criptografados,
+                        para que ninguém que não tenha acesso autorizado ao seu computador ou dispositivo móvel possa
+                        ver tais informações. Arquivos permanentes de cookie ficam no disco rígido do seu computador ou
+                        dispositivo móvel até que você os exclua automaticamente.
+
+                        Esteja ciente de que é tecnicamente impossível que os usuários escolham como login para registro
+                        palavras, expressões ou conjuntos gráficos que já tenham sido escolhidos anteriormente por
+                        outros usuários.
+
+                        Além dos cookies mencionados acima, usamos Local Shared Objects, também conhecidos como flash
+                        cookies, no nosso Site, os quais são utilizados para melhorar a sua experiência como usuário,
+                        por meio de, exemplificativamente, armazenagem de suas preferências e configurações de usuário,
+                        tais como áudio (volume/mudo).
+                        Os flash cookies, também, são usados em conexão com conteúdo animado em nosso Site. Local Shared
+                        Objects são semelhantes aos cookies de navegador, mas podem armazenar dados mais complexos do
+                        que simples texto. Por si próprios, esses arquivos não podem prejudicam a funcionalidade dos
+                        dados armazenados em seu computador ou dispositivo móvel, acessando, apenas, as Informações
+                        Pessoais que você fornecer ao Site. Para saber mais sobre flash cookies ou como desabilitá-los,
+                        clique aqui.
+
+                        O Site poderá, também, usar sinalizadores de rede, ou Web Beacons, conhecidos como clear gifs,
+                        pixel tags ou web bugs, que consistem em pequenos grafismos com um identificador único, com
+                        função similar à dos cookies, sendo colocados no código de uma webpage. Utilizaremos esses
+                        sinalizadores para monitorar os padrões de tráfego de usuários de uma página dentro do nosso
+                        Site para outro, enviar cookies ou comunicar-nos com eles, entender se você chegou ao nosso Site
+                        a partir de um anúncio online exibido em outro website, melhorando o desempenho do próprio Site.
+                        Também, poderemos permitir que nossos Prestadores de Serviços usem Web Beacons para nos ajudar a
+                        entender quais e-mails foram abertos pelos destinatários, controlando, assim, o tráfego de
+                        visitantes e as ações por eles tomadas em nosso Site, justamente para avaliar a eficácia de
+                        nosso conteúdo.
+
+                        O Site poderá, também, usar sinalizadores de rede, ou Web Beacons, conhecidos como clear gifs,
+                        pixel tags ou web bugs, que consistem em pequenos grafismos com um identificador único, com
+                        função similar à dos cookies, sendo colocados no código de uma webpage. Utilizaremos esses
+                        sinalizadores para monitorar os padrões de tráfego de usuários de uma página dentro do nosso
+                        Site para outro, enviar cookies ou comunicar-nos com eles, entender se você chegou ao nosso Site
+                        a partir de um anúncio online exibido em outro website, melhorando o desempenho do próprio Site.
+                        Também, poderemos permitir que nossos Prestadores de Serviços usem Web Beacons para nos ajudar a
+                        entender quais e-mails foram abertos pelos destinatários, controlando, assim, o tráfego de
+                        visitantes e as ações por eles tomadas em nosso Site, justamente para avaliar a eficácia de
+                        nosso conteúdo.</p>
+                </div>
+            </div>
+
+            <h4 class="subtitulo">Opções de exibição de publicidade customizada</h4>
+            <div class="col-12 d-inline-flex flex-wrap">
+                <div class="col-12 d-flex justify-content-center flex-wrap">
+                    <p class=" texto col-12">Dados coletados pelos Parceiros de Negócios e rede de anúncios para
+                        atendê-lo com publicidade relevante. Os anúncios que você vê no Site são fornecidos por nossos
+                        Prestadores de Serviços. Mas, nós, também, permitimos que terceiros coletem informações sobre
+                        suas atividades online, por meio de cookies e outras tecnologias. Nesses terceiros, incluem-se:
+                        (1) empresas que compõem nossa família corporativa: (2) Parceiros de Negócios, que coletam
+                        informações quando você visualiza ou interage com um dos seus anúncios no nosso Site; e (3)
+                        redes de publicidade, que coletam informações sobre seus interesses, quando você visualizar ou
+                        interagir com um dos anúncios que tais redes colocam em diversos sites na Internet. As
+                        informações coletadas por tais terceiros são utilizadas para fazer previsões sobre suas
+                        características, interesses ou preferências e para exibir anúncios em nossos sites e em toda a
+                        Internet, adaptados aos seus interesses aparentes. Não permitimos que esses terceiros vinculados
+                        às redes de publicidade coletem informações pessoais sobre você no nosso Site, nem
+                        compartilhamos com eles quaisquer informações pessoais sobre você.
+
+                        Dados coletados por empresas que operam intercâmbio de dados baseado em cookies para oferecer
+                        publicidade relevante para você. Tal como outras empresas operando online, este Site participa
+                        de intercâmbio de dados utilizando cookies, em que informações anônimas sobre o seu
+                        comportamento como internauta são coletadas por meio de cookies ou outras tecnologias e
+                        segmentadas em diferentes áreas de interesse (como gêneros de filmes). Estas áreas de interesse
+                        são, então, compartilhadas com terceiros, incluindo anunciantes e redes de publicidade, para que
+                        eles possam customizar uma grade de anúncios aos seus interesses aparentes. Nós não
+                        compartilhamos informações pessoais com essas empresas, e não permitimos que as mesmas coletem
+                        em nosso Site tais informações sobre você. Clique aqui para saber mais sobre o intercâmbio de
+                        dados por meio de cookies, incluindo como acessar informações sobre suas áreas de interesse
+                        associadas a cookies instalados no seu computador e como declinar de participar em tais
+                        programas.
+
+                        Por favor, esteja ciente de que nós não temos acesso ou controle sobre os cookies ou outras
+                        tecnologias que tais terceiros possam utilizar para coletar informações sobre os seus
+                        interesses, e as práticas relativas a informações de tais terceiros não estão cobertas por esta
+                        Política de Privacidade. Algumas dessas empresas são membros da “Network Advertising
+                        Initiative”, que oferece uma única localização para optar por não mais receber anúncios das
+                        empresas afiliadas a tal rede. Para saber mais, clique aqui.</p>
+                </div>
+            </div>
+
+            <h4 class="subtitulo">Proteção às suas informações</h4>
+            <div class="col-12 d-inline-flex flex-wrap">
+                <div class="col-12 d-flex justify-content-center flex-wrap">
+                    <p class=" texto col-12">Queremos que você se sinta seguro na utilização do Site e estamos
+                        comprometidos com a proteção das informações que coletamos. Para tanto, implementamos
+                        procedimentos de segurança físicos, administrativos e técnicos, para ajudar na proteção de suas
+                        Informações Gerais e de Terceiros. Somente funcionários autorizados podem acessar Informações
+                        Pessoais Gerais e de Terceiros, fazendo-o quando em cumprimento de funções.
+
+                        Adicionalmente, usamos criptografia quando transferimos informações pessoais sensíveis como
+                        Informações sobre seu cartão de crédito entre o seu sistema e o nosso, e usamos firewalls e
+                        sistemas de detecção de invasão para ajudar a prevenir o acesso às suas informações por pessoas
+                        não autorizadas.
+
+                        Mesmo assim, aconselhamos que você, ao acessar a Internet, sempre busque a política de
+                        privacidade do website que você está navegando, não repasse seus dados pessoais e senha para
+                        terceiros, inclusive familiares, use senhas complexas, com combinações de letras, números e
+                        outros caracteres. Tenha ciência, ainda, que a cinemark.com.br jamais irá solicitar a você o
+                        envio de senha por e-mail, SMS, rede social ou outro meio, de modo que você deve desconfiar de
+                        quem o assim fizer em nosso nome.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!---------------------------------------------------------------------------------------------------------->
+    <footer class="rodape">
+        <div class="container">
+          <nav class="menu-footer flex-wrap">
+            <a class="logo-footer" href="#home">
+              <img src="img/cinema_z.jpg">
+            </a>
+            <ul class="col-12 col-lg-6 politica-uso flex-wrap">
+              <li class= "col-lg-6 ">
+                <a class="nav-link" href="privacidade.html">Política de privacidade</a>
+              </li>
+              <li class="col-lg-6">
+                <a class="nav-link" href="uso.html">Termos de uso</a>
+              </li class=" col-12 col-lg-6">
+            </ul>
+            <ul class="col-12  col-lg-3 social flex-wrap">
+              <li>
+                <a href="#https://www.facebook.com/Cinema-Z-2618507235038751/?modal=admin_todo_tour">
+                  <img src="img/icone_fb.png">
+                </a>
+              </li>
+              <li>
+                <a href="https://www.instagram.com/cinemaztcm/">
+                  <img src="img/icone_ig.png">
+                </a>
+              </li>
+              <li>
+                <a href="https://twitter.com/CinemaZ6">
+                  <img src="img/icone_tt.png">
+                </a>
+              </li>
+              <li>
+                <a href="https://www.youtube.com/channel/UCftcbQevk8vYHecu_Sb5jCw?disable_polymer=true">
+                  <img src="img/icone_yt.png">
+                </a>
+              </li>
+            </ul>
+          </nav>
+          <div class="copia">
+            <p>Copyright &copy; 2019 CINEMAZ</p>
+          </div>
+        </div>
+      </footer>
+    
+      <script src="JS/bootstrap.min.js" type="text/JavaScript"></script>
+      <script src="JS/bootstrap.bundle.min.js" type="text/JavaScript"></script>
+    </body>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+      integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+      integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+      integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+    <script>
+      function teste() {
+        var box = document.getElementById('box-login');
+        if (box.classList) {
+          box.classList.toggle("active");
+        } else {
+          var classes = element.className.split(" ");
+          var i = classes.indexOf("active");
+    
+          if (i >= 0)
+            classes.splice(i, 1);
+          else
+            classes.push("active");
+          box.className = classes.join(" ");
+        }
+      }
+    
+      function cadastroNewsletter() {
+        alert("Cadastro efetuado com sucesso! Obrigado!")
+      }
+    
+      /* function openMenu() {
+        var menu = document.getElementById('menu-navbar');
+        menu.style.display = "block";
+      }
+    */
+      function openDropdown(obj) {
+        var menuItem = obj.querySelector('.dropdown-content');
+        $(menuItem).toggle(300);
+      };
+    
+      function openMenu(obj) {
+        var parObj = obj.parentElement;
+        var menuItem = parObj.querySelector('#menu-navbar');
+        $(menuItem).toggle(300);
+      };
+    </script>
+    
+    </html>
