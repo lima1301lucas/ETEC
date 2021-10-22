@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="icon" href="img/icone.png">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+    integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+  <link rel="stylesheet" href="CSS/bootstrap.min.css">
+  <link rel="stylesheet" href="CSS/style.css">
+  <title>CinemaZ</title>
+</head>
+
+<body>
+  <!--Início do cabeçalho-->
+
+  <header>
+    <div class="container">
+      <nav class="navbar navbar-expand-sm justify-content-between fixed-top menu">
+        <a class="col-2 navbar-brand justify-content-around" href="index.html">
+          <img src="img/cinema_z.jpg" alt="Logo" class="logo-nav">
+        </a>
+        <a onclick="openMenu(this)">
+          <span class="menu-mobile"></span>
+        </a>
+        <ul class="navbar-nav justify-content-around" id="menu-navbar">
+          <li class="nav-item active">
+            <a class="nav-link" href="programacao.html">PROGRAMAÇÃO</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="localizacao.html">LOCALIZAÇÃO</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="contato.html">CONTATO</a>
+          </li>
+          <li class="nav-item drop" onclick="openDropdown(this)">
+            <span class="dropbtn">INSTITUCIONAL</span>
+            <div class="dropdown">
+              <div class="dropdown-content">
+                <a class="link-drop" href="sobrenos.html">SOBRE NÓS</a>
+                <a class="link-drop" href="duvidas.html">FALE CONOSCO</a>
+                <a class="link-drop" href="procon.html">PROCON</a>
+                <a class="link-drop" href="trabalheconosco.html">TRABALHE CONOSCO</a>
+              </div>
+            </div>
+          </li>
+        </ul>
+        <span class="col-5 col-md-2 registro" onclick="teste()"><span class="name-user">OLÁ
+            VISITANTE&nbsp;</span><img src="img/user.png"></span>
+      </nav>
+      <div class="area-login" id="box-login">
+        <a class="btn branco" href="login.html"> LOGIN</a>
+        <p>Ainda não é cliente?</p>
+        <a class="cadastrar" href="entrar.html">CADASTRE-SE</a>
+      </div>
+    </div>
+  </header>
+  <!--------------------------------------------------------------------------------------------------------------------->
+
+  <section class="localizacao min">
+    <h2>FALE CONOSCO</h2>
+    <div class="container">
+      <div class="col-12 d-inline-flex flex-wrap fale">
+        <div class="col-12 d-flex justify-content-center flex-wrap">
+          <h5 class="col-12">Dê uma sugestão pra gente melhorar o nosso atendimento e programação. Ou ainda
+            se você quer fazer um elogio, uma crítica. Faz assim, preenche o formulário que te respondemos,
+            pode ser?
+          </h5>
+          <form method="POST" class="d-inline-flex flex-wrap trabalhe" onsubmit="cadastroNewsletter()">
+            <div class="col-12 col-md-6">
+              <div class="col-12 d-inline-flex align-items-center flex-wrap">
+                <label for="nome" class=" col-lg-2 col-12 lbl-padrao ">Nome:</label>
+                <input class="inp-padrao col-lg-10 col-12" type="text" name="nome" placeholder="Digite seu nome">
+              </div>
+
+              <div class="col-12 d-inline-flex align-items-center flex-wrap">
+                <label for="email" class=" col-lg-2 col-12 lbl-padrao">E-mail:</label>
+                <input class="inp-padrao col-lg-10 col-12" type="text" name="email" placeholder="seuemail@mail.com">
+              </div>
+
+              <div class="col-12 d-inline-flex align-items-center flex-wrap">
+                <label for="cinema" class=" col-lg-2  col-12 lbl-padrao">Cinema:</label>
+                <select class="inp-padrao col-lg-10 col-12">
+                  <option selected disabled>Selecione o shopping</option>
+                  <option>Bourbon Shopping</option>
+                  <option>Cantareira Norte Shopping</option>
+                  <option>Tietê Plaza Shopping</option>
+                  <option>Shopping West Plaza</option>
+                </select>
+              </div>
+
+              <div class="col-12 d-inline-flex align-items-center flex-wrap">
+                <label for="cinema" class="col-lg-2  col-12 lbl-padrao">Assunto:</label>
+                <select class="inp-padrao col-lg-10 col-12">
+                  <option selected disabled>Selecione o assunto</option>
+                  <option>Dúvida</option>
+                  <option>Elogio</option>
+                  <option>Sugestão</option>
+                  <option>Reclamação</option>
+                  <option>Outros</option>
+                </select>
+              </div>
+
+            </div>
+            <div class="col-12 col-md-6">
+              <div class="col-12">
+                <textarea class="textarea-padrao" placeholder="Digite observações e/ou complementos"
+                  rows="8"></textarea>
+              </div>
+              <div class="col-12 d-inline-flex justify-content-between">
+                <button class="btn col-5" type="submit" name="Enviar" value="enviar">Enviar</button></p>
+                <button class="btn col-5" type="reset" name="Limpar" value="Limpar">Limpar</button></p>
+              </div>
+            </div>
+
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!---------------------------------------------------------------------------------------------------------------------->
+  <footer class="rodape">
+    <div class="container">
+      <nav class="menu-footer flex-wrap">
+        <a class="logo-footer" href="#home">
+          <img src="img/cinema_z.jpg">
+        </a>
+        <ul class="col-12 col-lg-6 politica-uso flex-wrap">
+          <li class="col-lg-6 ">
+            <a class="nav-link" href="privacidade.html">Política de privacidade</a>
+          </li>
+          <li class="col-lg-6">
+            <a class="nav-link" href="uso.html">Termos de uso</a>
+          </li class=" col-12 col-lg-6">
+        </ul>
+        <ul class="col-12  col-lg-3 social flex-wrap">
+          <li>
+            <a href="#https://www.facebook.com/Cinema-Z-2618507235038751/?modal=admin_todo_tour">
+              <img src="img/icone_fb.png">
+            </a>
+          </li>
+          <li>
+            <a href="https://www.instagram.com/cinemaztcm/">
+              <img src="img/icone_ig.png">
+            </a>
+          </li>
+          <li>
+            <a href="https://twitter.com/CinemaZ6">
+              <img src="img/icone_tt.png">
+            </a>
+          </li>
+          <li>
+            <a href="https://www.youtube.com/channel/UCftcbQevk8vYHecu_Sb5jCw?disable_polymer=true">
+              <img src="img/icone_yt.png">
+            </a>
+          </li>
+        </ul>
+      </nav>
+      <div class="copia">
+        <p>Copyright &copy; 2019 CINEMAZ</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="JS/bootstrap.min.js" type="text/JavaScript"></script>
+  <script src="JS/bootstrap.bundle.min.js" type="text/JavaScript"></script>
+</body>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+  integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+  integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+  integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<script>
+  function teste() {
+    var box = document.getElementById('box-login');
+    if (box.classList) {
+      box.classList.toggle("active");
+    } else {
+      var classes = element.className.split(" ");
+      var i = classes.indexOf("active");
+
+      if (i >= 0)
+        classes.splice(i, 1);
+      else
+        classes.push("active");
+      box.className = classes.join(" ");
+    }
+  }
+
+  function cadastroNewsletter() {
+    alert("Contato efetuado com sucesso! Obrigado!")
+  }
+
+  /* function openMenu() {
+        var menu = document.getElementById('menu-navbar');
+        menu.style.display = "block";
+      }
+    */
+  function openDropdown(obj) {
+    var menuItem = obj.querySelector('.dropdown-content');
+    $(menuItem).toggle(300);
+  };
+
+  function openMenu(obj) {
+    var parObj = obj.parentElement;
+    var menuItem = parObj.querySelector('#menu-navbar');
+    $(menuItem).toggle(300);
+  };
+</script>
+
+</html>
