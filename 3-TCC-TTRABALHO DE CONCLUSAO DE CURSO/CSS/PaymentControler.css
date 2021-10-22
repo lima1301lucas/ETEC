@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 16px;
+}
+.error {
+    width: 600px;
+    height: 60px;
+    margin-top: 20%;
+    margin-left: 380px;
+    background-color: #F0C0C0;
+    border: 1.5px solid #900000;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.alert {
+    width: 600px;
+    height: 60px;
+    margin-left: 380px;
+    margin-top: 20%;
+    background-color: #F0F040;
+    border: 1.5px solid #FF9000;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.success {
+    width: 600px;
+    height: 90px;
+    margin-top: 20%;
+    margin-left: 380px;
+    background-color: #C0F0C0;
+    border: 1.5px solid #009000;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.success p, .alert p, .error p {
+    padding-top: 15px;
+}
+
+@media screen and (max-width: 500px) {
+    label {
+        width: 100%;
+        display: block;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .success,
+    .alert, .error {
+        width: 89%;
+        height: 60px;
+        margin: 20px auto;
+    }
+
+    .success p,
+    .alert p, .error p {
+        padding-top: 10px;
+    }
+
+}
+
+@media (min-width: 501px) and (max-width: 1024px) {
+
+    label {
+        width: 100%;
+        display: block;
+        text-align: center;
+    }
+
+    .success,
+    .alert, .error {
+        width: 90%;
+        height: 60px;
+        margin: 20px auto;
+    }
+
+    .success p,
+    .alert p, .error p {
+        padding-top: 10px;
+    }
+}

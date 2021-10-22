@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 16px;
+}
+
+
+body {
+    overflow-x: hidden;
+    position: relative;
+    min-height: 100%;
+    height: 100%;
+}
+
+.corpo {
+    padding-top: 90px;
+    padding-bottom: 40px;
+}
+
+.sec-banner {
+    margin-left: 50px;
+}
+
+.ind-banner {
+    width: 96%;
+}
+
+.sec-categoria {
+    width: 100%;
+    padding-top: 10px;
+    margin-bottom: 50px;
+}
+
+.categoria {
+    width: 1250px;
+    height: 400px;
+    margin-left: 70px;
+    display: flex;
+}
+
+.titulo h2 {
+    width: 1250px;
+    margin-left: 50px;
+    font-size: 22px;
+    font-weight: 500;
+    border-bottom: 1.5px solid #ccc;
+}
+
+.produto {
+    margin: 25px;
+    width: 250px;
+    height: 350px;
+    border: 1.5px solid #ccc;
+}
+
+.img-produto {
+    margin: 25px;
+    width: 200px;
+    height: 200px;
+}
+
+.ft-produto {
+    width: 100%;
+    height: 100%;
+}
+
+.nome {
+    font-size: 16px;
+    display: block;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.valor {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.info {
+    margin-top: -10px;
+    margin-left: 25px;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+}
+
+.nome {
+    font-size: 18px;
+}
+
+.ver button {
+    margin-left: 25px;
+    margin-top: 10px;
+    width: 200px;
+    height: 30px;
+    background-color: #0a3d6d;
+    color: white;
+    border: none;
+}
+
+.mais {
+    width: 100%;
+    height: 10px;
+}
+
+.seta {
+    margin-left: 650px;
+    width: 40px;
+    height: 40px;
+}
+
+.seta:hover {
+    opacity: 0.5;
+    border-bottom: 1px solid #ccc;
+    transition: 500ms;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+@media screen and (max-width: 500px) {
+    .titulo {
+        width: 90%;
+    }
+
+    .titulo h2 {
+        width: 100%;
+        margin: 0 0 0 20px;
+        text-align: center;
+    }
+
+    .corpo {
+        width: 100%;
+    }
+
+    .sec-banner {
+        margin: 0 0 0 15px;
+    }
+
+    .ind-banner{
+        width: 96%;
+    }
+
+    .categoria {
+        display: inline-block;
+        width: 100%;
+    }
+
+    .seta {
+        margin-top: 40px;
+        margin-left: 45vw
+    }
+
+    .categoria {
+        margin: 0px auto;
+    }
+
+    .produto {
+        margin: 25px auto;
+    }
+}
+
+@media (min-width: 501px) and (max-width: 1024px) {
+    .titulo h2 {
+        width: 660px;
+        text-align: center;
+    }
+
+    .corpo {
+        width: 750px;
+    }
+
+    .categoria {
+        display: flex;
+        width: 100%;
+        flex-wrap: wrap;
+        height: auto;
+        max-height: 800px;
+    }
+
+    .seta {
+        margin-top: 10px;
+        margin-left: 47vw
+    }
+}

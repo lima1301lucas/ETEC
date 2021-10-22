@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 16px;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.titulo > h2{
+    padding-top: 90px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.sec-pedido{
+    height: 62.7vh;
+    margin-left: 160px;
+    margin-top: 37px;
+    margin-bottom: 20px;
+}
+
+.pedido{
+    padding-top: 20px;
+    width: 1000px;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+thead{
+    background-color: #0a3d6d;
+    color: white;
+}
+
+tbody{
+    background-color: #ccc;
+    border-bottom: 1px solid black;
+}
+
+
+@media screen and (max-width: 500px)
+{
+    .sec-pedido{
+        margin: 20px;
+    }
+
+    .pedido{
+        width: 100%;
+    }
+
+    .corpo-pagina{
+        width: 100%;
+        height: 80vh;
+    }
+
+    .td-entrega{
+        display: none;
+    }
+
+    .td-data{
+        display: none;
+    }
+
+    .td-desc{
+        width: 50%;
+    }
+
+    main{
+        height: 80vh;
+    }
+    
+}
+
+@media (min-width: 501px) and (max-width: 1024px)
+{
+    .sec-pedido{
+        margin: 20px;
+    }
+
+    .pedido{
+        width: 100%;
+    }
+
+    .corpo-pagina{
+        width: 100%;
+        height: 80vh;
+    }
+
+    .td-entrega{
+        display: none;
+    }
+
+    .td-desc{
+        width: 50%;
+    }
+
+    main{
+        height: 95vh;
+    }
+}

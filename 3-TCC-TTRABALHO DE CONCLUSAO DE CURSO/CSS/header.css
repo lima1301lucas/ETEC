@@ -1,0 +1,257 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans', sans-serif;
+    transition: all .3s ease;
+}
+
+html{
+    overflow-x: hidden;
+    max-width: 100%;
+}
+
+ul{
+    list-style: none;
+}
+
+.container{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+header{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: #0a3d6d;
+}
+
+.content-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.open-nav{
+    display: none;
+}
+
+.menu{
+    max-width: 700px;
+}
+
+.list-nome{
+    color: mediumspringgreen;
+    display: block;
+    font-size: 18px;
+}
+
+nav .list-menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav .list-menu a{
+    position: relative;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    padding-bottom: 5px;
+}
+
+nav .list-menu a:hover{
+    color: #13b8b8;
+}
+
+nav .list-menu a::before{
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    left: 0;
+    bottom: 0;
+    background-color: #13b8b8;
+    transition: all .3s ease;
+}
+
+nav .list-menu a:hover::before{
+    width: 100%;
+    transition: all .3s ease;
+}
+
+@media (max-width: 500px){
+    .menu{
+        position: fixed;
+        top: 0;
+        left: 100%;
+        width: 100%;
+        height: 100%;
+        background-color: #0a3d6d;
+        opacity: .9;
+    }
+
+    .list-nome{
+        margin: 30px;
+    }
+
+    nav .list-menu{
+        flex-direction: column;
+        margin: 0;
+        padding: 60px;
+    }
+
+    nav .list-menu a{
+        display: block;
+        margin-bottom: 20px;
+    }
+
+    nav.menu.active{
+        left: 0;
+    }
+
+    button.open-nav.open .line.line_1{
+        transform: rotate(20deg);
+        transform-origin: left;
+    }
+
+    button.open-nav.open .line.line_2{
+        left: 100%;
+        opacity: 0;
+    }
+
+    button.open-nav.open .line.line_3{
+        transform: rotate(-20deg);
+        transform-origin: left;    
+    }
+
+    .open-nav{
+        position: relative;
+        display: block;
+        width: 40px;
+        height: 40px;
+        background-color: transparent;
+        border: none;
+        outline: none;
+        z-index: 3;
+    }
+
+    .open-nav .line{
+        position: absolute;
+        width: 100%;
+        height: 4px;
+        background: white;
+        left: 0;
+        border-radius: 5px;
+    }
+
+    .open-nav .line.line_1{
+        top: 5px;
+    }
+
+    .open-nav .line.line_2{
+        top: 50%;
+        transform: translateY(-50%);
+        opacity: 1;
+    }
+
+    .open-nav .line.line_3{
+        bottom: 5px;
+    }
+}
+
+@media (min-width: 501px) and (max-width: 800px){
+    
+    body{
+        width: 100%;
+    }
+
+    .menu{
+        position: fixed;
+        top: 0;
+        left: 100%;
+        width: 100%;
+        height: 100%;
+        background-color: #0a3d6d;
+        opacity: .9;
+    }
+
+    .content-header{
+        width: 755px;
+    }
+
+    .list-nome{
+        margin: 30px;
+    }
+
+    nav .list-menu{
+        flex-direction: column;
+        margin: 0;
+        padding: 60px;
+    }
+
+    nav .list-menu a{
+        display: block;
+        margin-bottom: 20px;
+    }
+
+    nav.menu.active{
+        left: 320px;
+        width: 450px;
+    }
+
+    button.open-nav.open .line.line_1{
+        transform: rotate(20deg);
+        transform-origin: left;
+    }
+
+    button.open-nav.open .line.line_2{
+        left: 100%;
+        opacity: 0;
+    }
+
+    button.open-nav.open .line.line_3{
+        transform: rotate(-20deg);
+        transform-origin: left;    
+    }
+
+    .open-nav{
+        position: relative;
+        display: block;
+        width: 40px;
+        height: 40px;
+        background-color: transparent;
+        border: none;
+        outline: none;
+        z-index: 3;
+    }
+
+    .open-nav .line{
+        position: absolute;
+        width: 100%;
+        height: 4px;
+        background: white;
+        left: 0;
+        border-radius: 5px;
+    }
+
+    .open-nav .line.line_1{
+        top: 5px;
+    }
+
+    .open-nav .line.line_2{
+        top: 50%;
+        transform: translateY(-50%);
+        opacity: 1;
+    }
+
+    .open-nav .line.line_3{
+        bottom: 5px;
+    }
+}
+

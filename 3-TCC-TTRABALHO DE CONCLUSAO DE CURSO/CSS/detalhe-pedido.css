@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 16px;
+}
+
+body {
+    position: relative;
+    min-height: 100%;
+    height: 100%;
+}
+
+.sec-detalhe {
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+.titulo>h2 {
+    font-size: 22px;
+    font-weight: 500;
+    margin-left: 5px;
+    border-bottom: 1.5px solid rgb(172, 172, 172);
+}
+
+.dados-entrega {
+    margin: 50px;
+    width: 450px;
+    background-color: rgb(222, 222, 222);
+    padding: 5px;
+}
+
+.principal {
+    margin: 50px;
+    width: 450px;
+    height: 280px;
+    background-color: rgb(223, 223, 223);
+}
+
+
+.dados {
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.dados>h4 {
+    font-size: 18px;
+    padding-top: 5px;
+}
+
+span {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.geral {
+    display: flex;
+    padding-top: 60px;
+}
+
+.sec-tabela {
+    margin-top: 50px;
+}
+
+.tbl-pedido {
+    width: 650px;
+    border-collapse: collapse;
+    border-spacing: 0px;
+    text-align: center;
+}
+
+.img-pedido {
+    width: 150px;
+    height: 150px;
+}
+
+thead {
+    background-color: #0a3d6d;
+    color: white;
+}
+
+td {
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+
+.td-img {
+    width: 170px;
+    height: 170px;
+}
+
+.td-nome {
+    width: 350px;
+}
+
+.total {
+    height: 30px;
+    background-color: #0a3d6d;
+    color: #fff;
+    border: none;
+}
+
+@media (max-width: 500px) 
+{
+    .geral{
+        width: 100%;
+        height: 100%;
+        display: block;
+    }
+
+    .sec-detalhe{
+        width: 100%;
+        margin: 0;
+    }
+
+    .dados-entrega{
+        margin: 20px 0 30px 20px;
+        width: 87%;
+    }
+
+    .principal{
+        width: 89.5%;
+        height: 100%;
+        margin: 20px 0 30px 20px;
+    }
+
+    .dados{
+        margin: 10px;
+    }
+
+    .sec-tabela{
+        width: 100%;
+        height: auto;
+        margin: 30px 0 30px 20px;
+    }
+
+    .tbl-pedido{
+        width: 90%;
+        height: auto;
+    }
+
+    tfoot{
+        border-collapse: collapse;
+    }
+}
+
+@media (min-width: 501px) and (max-width: 800px) 
+{
+    .geral{
+        display: block;
+    }
+
+    .sec-detalhe{
+        width: 100%;
+        margin: 0;
+    }
+
+    .dados-entrega{
+        margin: 30px 0 30px 50px;
+        width: 87%;
+    }
+
+    .principal{
+        width: 88%;
+        margin: 0 0 0 50px;
+    }
+
+    .sec-tabela{
+        width: 100%;
+        height: auto;
+        margin: 30px 0 30px 50px;
+    }
+
+    .tbl-pedido{
+        width: 88.3%;
+        height: auto;
+    }
+}

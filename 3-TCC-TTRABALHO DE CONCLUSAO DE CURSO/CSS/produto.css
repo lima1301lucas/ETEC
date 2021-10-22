@@ -1,0 +1,329 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 16px;
+}
+
+.frmMercadoPago
+{
+    width: 0px;
+}
+
+button.mercadopago-button{
+    width: 0.5px;
+    height: 0.5px;
+    visibility: hidden;
+}
+/*body{
+    overflow-x: hidden;
+}
+*/
+.corpo{
+    padding-top: 70px;
+    height: 77.3vh;
+}
+
+.sec-prod{
+    width: 100%;
+    height: 100%;
+    margin-bottom: 20px;
+    display: flex;
+    background-color: rgba(211, 211, 211, 0.1);
+}
+
+.zoom{
+    position: absolute;
+    width: 500px;
+    height: 450px;
+    margin: 40px 70px;
+}
+
+.clearfix{
+    height:400px; 
+    width:400px;
+    margin: 10px;
+    position: relative;
+}
+
+.imgprod {
+    width: 400px;
+    height:400px;
+    opacity:1;
+    position: static;
+}
+
+.dados-prod{
+    width: 700px;
+    height: 90%;
+    margin-left: 550px;
+    margin-top: 10px;
+    padding: 15px;
+    border: 1px solid lightgrey;
+}
+
+.nome h2{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.codigo{
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.descricao{
+    height: 170px;
+    margin-top: 5px;
+    text-align: justify;
+}
+
+.descricao span{
+    font-size: 16px;
+}
+
+.valores{
+    height: 80px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.valores h1{
+    font-size: 40px;
+}
+
+.icon{
+    width: 30px;
+}
+
+.carrinho{
+    display: inline-flex;
+}
+
+
+.btn-carrinho, button.btnComprar {
+    width: 250px;
+    height: 50px;
+    border: none;
+    outline: none;
+    background-color: #0a3d6d;
+    font-size: 18px;
+    border-radius: 0.2857142857142857em;
+}
+
+.formulario{
+    margin-top: 10px;
+}
+
+#txtQtde{
+    width: 50px;
+    height: 28px;
+    text-align: center;
+    border: 1px solid gray;
+}
+
+#btnMenos{
+    width:30px;
+    height:30px;
+    margin:5px 0 0 0;
+    background-color: #ccc;
+    border: 1px solid gray;
+}
+
+#btnMais{
+    width:30px;
+    height:30px;
+    margin:5px 0 0 0;
+    background-color: #ccc;
+    border: 1px solid gray;
+}
+
+.confirma{
+    /*width: 450px;
+    height: 35px;
+    border: 2px solid darkgray;
+    margin-left: 115px;
+    text-transform: uppercase;
+    background-color: #ccc;*/
+    visibility: hidden;
+}
+
+.btn-carrinho{
+    width: 350px;
+    color: #ffffff;
+    margin: 25px 0px 0px 25px;
+}
+
+.carrinho button{
+    width: 320px;
+}
+
+button.btnComprar{
+    color: #ffffff;
+    margin: 25px 25px 0px 0px;
+}
+
+.carrinho > .btn-carrinho > a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+.slcEnd{
+    width: 80%;
+    height: 32px;
+}
+
+
+@media (max-width: 500px) {
+
+    .corpo{
+        padding-top: 50px;
+        height: auto;
+    }
+
+    .clearfix {
+        height: 200px;
+        width: 200px;
+        margin: 10px;
+        position: relative;
+    }
+
+    .slcEnd {
+        width: 125%;
+        height: 40px;
+    }
+
+    .zoom {
+        position: relative;
+        width: 400px;
+        height: 300px;
+        margin-left: 5%;
+        z-index: -1000;
+    }
+
+    .imgprod {
+        width: 300px;
+        height: 300px;
+    }
+
+    .sec-prod {
+        width: 100%;
+        display: block;
+    }
+
+    .dados-prod {
+        width: 89%;
+        margin: 10px;
+        padding: 10px;
+    }
+
+    #btnMenos{
+        margin: 15px 0 0 38%;
+    }
+
+    .formulario{
+        width: 80%;
+    }
+
+    .zoomPup {
+        display: none;
+    }
+
+    .descricao {
+        height: auto;
+        margin-bottom: 5px;
+    }
+
+    .valores {
+        margin-left: -10%;
+    }
+
+    .carrinho {
+        display: block;
+    }
+
+    button.btnComprar {
+        color: #ffffff;
+        margin-left: 8px;
+    }
+
+    .btn-carrinho {
+        margin: 10px 0 0 8px;
+    }
+
+    .confirma{
+        width: 89vw;
+        height: 50px;
+        margin: 0px;
+    }
+
+}
+
+@media (min-width: 501px) and (max-width: 800px) {
+    .clearfix {
+        height: 200px;
+        width: 200px;
+        margin: 10px;
+        position: relative;
+    }
+
+    .zoom {
+        position: relative;
+        width: 280px;
+        height: 280px;
+        margin-left: 20%;
+        margin-right: 20%;
+        z-index: -1;
+    }
+
+    .imgprod {
+        width: 280px;
+        height: 280px;
+        margin-left: 20%;
+        margin-right: 20%;
+    }
+
+    .sec-prod {
+        width: 100%;
+        height: 100%;
+        margin-bottom: 20px;
+        display: block;
+    }
+
+    .dados-prod {
+        height: 380px;
+        margin-left: 25px;
+        margin-right: 20%;
+        margin-top: 10px;
+        padding: 10px;
+    }
+
+    .zoomPup {
+        display: none;
+    }
+
+    .descricao {
+        height: auto;
+        margin-bottom: 5px;
+    }
+
+    .valores {
+        margin-top: 20px;
+    }
+
+    .carrinho {
+        margin-top: 20px;
+    }
+
+    button.btnComprar {
+        color: #ffffff;
+        margin: 10px 0px 0px 10%;
+    }
+
+    .btn-carrinho {
+        margin: 10px 0px 0px 10%;
+    }
+}

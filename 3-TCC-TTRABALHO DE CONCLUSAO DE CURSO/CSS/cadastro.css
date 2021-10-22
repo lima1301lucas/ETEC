@@ -1,0 +1,578 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 16px;
+}
+
+body{
+    position: relative;
+    min-height: 100%;
+    height: 100%;
+}
+
+.titulo{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+.box-cadastro{
+    width: 1100px;
+    margin-left: 160px;
+    padding: 20px;
+}
+
+.formulario{
+    display: flex;
+}
+
+input{
+    height: 30px;
+    padding-left: 10px;
+    outline: none;
+    border: 0.5px solid black;
+}
+
+.dados-pessoais{
+    width: 450px;
+    padding: 20px;
+    position: static;
+    background-color: #ececec;
+}
+
+.subtitulo{
+    border-bottom: 1px solid rgb(163, 163, 163);
+}
+
+.subtitulo p{
+    font-size: 18px;
+}
+
+.divide{
+    margin-top: 15px;
+    display: flex;
+}
+
+.nome{
+    margin-top: 15px;
+}
+
+.inp-cpf{
+    width: 130px;
+}
+
+.inp-email{
+    width: 280px;
+}
+
+.inp-nome{
+    width: 435px;
+}
+
+.inp-tel{
+    width: 200px;
+}
+
+.inp-cel{
+    width: 200px;
+}
+
+.celular{
+    margin-left: 15px;
+}
+
+.usuario{
+    width: 250px;
+    margin-top: 15px;
+}
+
+.inp-usuario{
+    width: 220px;
+}
+
+.inp-usuario{
+    width: 220px;
+}
+
+.inp-confirmar-senha{
+    width: 220px;
+}
+.inp-senhas{
+    width: 220px;
+}
+
+.senha{
+    width: 250px;
+}
+
+#mostra{
+    padding-top: 25px;
+}
+
+#mostra-con{
+    padding-top: 25px;
+}
+
+td{
+    padding-left: 5px;
+    color: black;
+    text-transform: uppercase;
+}
+
+.confirmar-senha{
+    width: 250px;
+}
+
+.mostra{
+    vertical-align: middle;
+    background-color: #e4e4e4;
+    width: 35px;
+    height: 30px;
+    margin-left: -40px;
+    margin-top: -3px;
+}
+
+.dados-entrega{
+    width: 450px;
+    height: 450px;
+    padding: 20px;
+    margin-left: 60px;
+    background-color: #ececec;
+}
+
+.endereco{
+    width: 200px;
+    margin-top: 15px;
+}
+
+.inp-endereco{
+    width: 440px;
+}
+
+.cep{
+    width: 100px;
+}
+
+.numero{
+    width: 100px;
+}
+
+.inp-cep{
+    width: 80px;
+}
+
+.numero{
+    margin-left: 10px;
+}
+
+.inp-numero{
+    width: 70px;
+    margin-left: 5px;
+}
+
+.bairro{
+    margin-left: 10px;
+}
+
+.inp-bairro{
+    width: 235px;
+    margin-left: 5px;
+}
+
+.complemento{
+    width: 200px;
+    margin-top: 15px;
+}
+
+.inp-complemento{
+    width: 440px;
+}
+
+.inp-cidade{
+    width: 230px;
+}
+
+.estado{
+    margin-left: 20px;
+}
+
+.inp-estado{
+    width: 190px; 
+    height: 30px;
+    padding-left: 5px;
+    outline: none;
+    border: 0.5px solid black;
+}
+
+.btn-enviar{
+    margin-top: 50px;
+    width: 453px;
+    height: 50px;
+    background-color: rgb(54, 115, 184);
+    color: white;
+    border: none;
+    outline: none;
+}
+
+.button-salva > button{
+    margin-top: 100px;
+    width: 453px;
+    height: 50px;
+    background-color: rgb(54, 115, 184);
+    color: white;
+    border: none;
+    outline: none;
+}
+
+.confirma-cad{
+    margin-top: 15px;
+}
+
+.alt{
+    margin-left: 40%;
+    padding-top: 50px;
+}
+
+@media screen and (max-width: 500px)
+{
+    .confirma-cad{
+        width: 100%;
+        height: 30px;
+    }
+
+    .box-cadastro{
+        width: 450px;
+        height: 100%;
+        margin: 0 auto;
+    }
+
+    .formulario{
+        display: block;
+        margin-left: 10px;
+    }
+
+    .dados-pessoais{
+        width: 360px;
+        height: auto;
+        padding: 20px;
+        background-color: #ececec;
+    }
+
+    .dados-entrega{
+        width: 360px;
+        height: auto;
+        margin-top: 20px;
+        margin-left: 0px;
+        background-color: #ececec;
+    }
+
+    .divide{
+        display: block;
+    }
+
+    .cpf{
+        margin: 10px;
+    }
+
+    .inp-cpf{
+        width: 280px;
+        display: block;
+    }
+
+    .email{
+        margin: 10px;
+    }
+
+    .inp-email{
+        display: block;
+    }
+
+    .nome{
+        margin: 10px;
+    }
+
+    .inp-nome{
+        width: 280px;
+        display: block;
+    }
+
+    .telefone{
+        margin: 10px;
+    }
+
+    .inp-tel{
+        display: block;
+    }
+
+    .celular{
+        margin: 10px;
+    }
+
+    .inp-cel{
+        display: block;
+    }
+
+    .usuario{
+        margin: 10px;
+    }
+
+    .inp-usuario{
+        display: block;
+    }
+
+    .senha{
+        margin: 10px 10px -30px 10px;
+    }
+
+    .socorro > .divide{
+        margin: 0px 0px -30px 0px;
+    }
+
+    #mostra{
+        padding-top: 45px;
+        margin-left: 10px;
+        padding-bottom: 20px;
+    }
+
+    .confirmar-senha{
+        margin: 10px 10px 10px 10px;
+    }
+
+    #mostra-con{
+        padding-top: 10px;
+        margin-left: 10px;
+    }
+
+    .inp-endereco{
+        width: 300px;
+        display: block;
+    }
+
+    .endereco{
+        margin: 10px;
+    }
+    .cep{
+        margin: 10px;
+    }
+
+    .inp-numero{
+        display: block;
+    }
+
+    .numero{
+        margin: 10px;
+    }
+
+    .inp-bairro{
+        display: block;
+    }
+
+    .bairro{
+        margin: 10px;
+    }
+
+   .inp-complemento{
+        width: 300px;
+        display: block;
+    }
+
+    .complemento{
+        margin: 10px;
+    }
+
+    .inp-cidade{
+        display: block;
+    }
+
+    .cidade{
+        margin: 10px;
+    }
+
+    .inp-estado{
+        display: block;
+    }
+
+    .estado{
+        margin: 10px;
+    }
+
+    .btn-enviar{
+        width: 350px;
+    }
+}
+
+@media (min-width: 501px) and (max-width: 1024px)
+{
+    .confirma-cad{
+        width: 100%;
+        height: 30px;
+    }
+
+    .box-cadastro{
+        width: 450px;
+        height: 100%;
+        margin-left: 10px;
+    }
+
+    .formulario{
+        display: block;
+        margin-left: 10px;
+    }
+
+    .dados-pessoais{
+        width: 640px;
+        height: auto;
+        padding: 20px;
+        background-color: #ececec;
+    }
+
+    .dados-entrega{
+        width: 640px;
+        height: auto;
+        margin-top: 20px;
+        margin-left: 0px;
+        background-color: #ececec;
+    }
+
+    .divide{
+        display: flex;
+    }
+    .cpf{
+        margin: 10px;
+    }
+
+    .inp-cpf{
+        width: 280px;
+        display: block;
+    }
+
+    .email{
+        margin: 10px;
+    }
+
+    .inp-email{
+        display: block;
+    }
+
+    .nome{
+        margin: 10px;
+    }
+
+    .inp-nome{
+        width: 590px;
+        display: block;
+    }
+
+    .telefone{
+        margin: 10px;
+    }
+
+    .inp-tel{
+        display: block;
+    }
+
+    .celular{
+        margin: 10px;
+    }
+
+    .inp-cel{
+        display: block;
+    }
+
+    .usuario{
+        margin: 10px;
+    }
+
+    .inp-usuario{
+        display: block;
+    }
+
+    .senha{
+        margin: 10px 10px -30px 10px;
+    }
+
+    .socorro > .divide{
+        margin: 0px 0px -30px 0px;
+    }
+
+    #mostra{
+        padding-top: 45px;
+        margin-left: 10px;
+        padding-bottom: 20px;
+    }
+
+    .confirmar-senha{
+        margin: 10px 10px 10px 10px;
+    }
+
+    #mostra-con{
+        padding-top: 10px;
+        margin-left: 10px;
+    }
+
+    .inp-endereco{
+        width: 590px;
+        display: block;
+    }
+
+    .endereco{
+        margin: 10px;
+    }
+    .cep{
+        margin: 10px;
+    }
+
+    .inp-numero{
+        display: block;
+    }
+
+    .numero{
+        margin: 10px;
+    }
+
+    .inp-bairro{
+        display: block;
+    }
+
+    .bairro{
+        margin: 10px;
+    }
+
+   .inp-complemento{
+        width: 590px;
+        display: block;
+    }
+
+    .complemento{
+        margin: 10px;
+    }
+
+    .inp-cidade{
+        display: block;
+    }
+
+    .cidade{
+        margin: 10px;
+    }
+
+    .inp-estado{
+        display: block;
+    }
+
+    .estado{
+        margin: 10px;
+    }
+    
+    .btn-enviar{
+        width: 610px;
+    }
+
+}
